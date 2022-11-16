@@ -1,0 +1,44 @@
+#footer-content {
+    margin-top: 10px;
+    border-top: 3px solid #0284a8;
+    background-color: #f6f6f6;
+}
+
+.footer-sitemap-subtitle {
+    font-size: 14px;
+}
+
+.footer-sitemap-subtitle .fa {
+    padding-right: 5px;
+}
+
+.footer-sitemap-link {
+    /*width: 100%;*/
+    font-size: 12px;
+    padding-left: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.banners {
+    text-align: center;
+    /*width: 240px;*/
+    /*height: 100px;*/
+}
+
+.banners img {
+    width: 95%;
+    /*height: 100%;*/
+    max-width: 230px;
+    box-shadow: 0 0 2px gray;
+}
+
+.bunner-area-wrapper {
+    padding: 10px;
+}
+
+.bunner-area-wrapper [class*="col-"] {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}

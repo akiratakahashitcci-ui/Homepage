@@ -1,0 +1,325 @@
+body {
+    color: #5a5a5a;
+    font-family: 游ゴシック体, Yu Gothic, YuGothic, ヒラギノ角ゴ Pro, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, MS Pゴシック, MS PGothic, sans-serif;
+    background: #F2F2F2;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.bg-white {
+    background: #fff;
+    /*border-top: 1px solid #ddd;*/
+    /*border-bottom: 1px solid #ddd;*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bg-pink {
+    background: #EBB9BC;
+    padding-bottom: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.bg-right-pink {
+    background: #F2DBDB;
+    padding-bottom: 20px;
+}
+
+.bg-blue {
+    background: #1983B3;
+}
+
+.bg-gray {
+    padding-top: 20px;
+    background: #EDEDED;
+}
+
+.bg-right-blue {
+    background: #DBEAF1;
+}
+
+.flyer-img {
+    width: 500px;
+    height: 355px;
+}
+
+.schedule-table {
+    margin: 0 auto;
+}
+
+.schedule-table th {
+    text-align: center;
+    vertical-align: top;
+}
+
+.info-table {
+    margin: 0 auto;
+}
+
+.info-table th {
+    vertical-align: top;
+    width: 100px;
+}
+
+.main-visual {
+    background: #76c5ff;
+    background-image: url('../image/097008.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-mask {
+    /* 背景画像の透過用css */
+    height: 100%;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.bg-mask .container h1 {
+    text-align: center;
+}
+
+.shadow {
+    box-shadow: 0 0 2px 1px #ccc;
+    padding: 10px;
+    background: #fff;
+}
+
+.link-button-area{
+    text-align: center;
+}
+
+.link-text {
+    font-size: 26px;
+    margin: 10px;
+}
+
+/*.box1-title {
+    font-size: 22px;
+    margin-top: 0;
+    font-weight: bold;
+    padding-top: 10px;
+    text-align: center;
+    position: relative;
+}*/
+
+/*.box1-title:before {
+    position: absolute;
+    bottom: -7px;
+    left: calc(50% - 20px);
+    width: 50px;
+    height: 3px;
+    content: '';
+    border-radius: 3px;
+    background: #000;
+}*/
+
+.box1-text {
+    margin: 0;
+    padding: 1em 1em 1em 1em;
+}
+
+.centence-title {
+    font-size: 22px;
+    font-weight: bold;
+    border-bottom: 1px solid #d3d3d3;
+    position: relative;
+    padding-top: 15px;
+}
+
+.button-wrapper {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.btn-mainlink {
+    width: 310px;
+}
+
+.link-button {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.new-information-title-wrapper {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.new-information {
+    position: relative;
+    display: inline-block;
+    padding: 0 55px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+/*.new-information:before,
+.new-information:after {
+    content: '';
+    position: absolute;
+    top: 48%;
+    display: inline-block;
+    width: 45px;
+    height: 2px;
+    background-color: black;
+}*/
+
+.new-information:before {
+    left: 0;
+}
+
+.new-information:after {
+    right: 0;
+}
+
+
+.address {
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.marketing .col-xs-12 {
+    text-align: center;
+}
+
+.marketing .col-sm-4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.marketing .col-md-4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing .col-lg-6 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.merit-icon {
+    color: #2bbbce;
+    font-size: 80px;
+}
+
+.featurette-divider {
+    margin: 20px 0;
+    border: 0;
+}
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.featurette-heading-sub {
+    margin-top: 10px;
+}
+
+.seminar-info-title {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.seminar-info {
+    text-indent: 20px;
+    font-size: 18px;
+}
+
+.line-centence {
+    border-bottom: 1px solid black;
+}
+
+.return-top {
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+}
+
+/* RESPONSIVE
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+    .navbar-wrapper {
+        margin-top: 20px;
+    }
+
+    .navbar-wrapper .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .navbar-wrapper .navbar {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .featurette-heading {
+        font-size: 28px;
+    }
+
+    .featurette-heading-sub {
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+
+    .jumbotron h1,
+    .jumbotron .h1 {
+        font-size: 50px;
+        font-weight: bold;
+    }
+
+
+}
+
+@media screen and (min-width: 992px) {
+    .row-eq-height {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+    }
+
+    .box1 {
+        height: 90%;
+    }
+}
+
+@media screen and (max-width: 993px) {
+    .row-eq-height {
+        margin-bottom: -15px;
+    }
+
+}
+
+.link-text {
+    text-indent: 50px;
+}
+
+.top-info {
+    font-weight: bold;
+    margin: 2em auto;
+    padding: 1em;
+    background-color: #FFF5EE;
+    box-shadow: 0 0 5px 1px #ccc;
+    text-align: center;
+    font-size: 20px;
+}

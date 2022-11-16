@@ -1,0 +1,43 @@
+.resume-content {
+    width: 100%;
+}
+
+.seminor-image-table {
+    width: 100%;
+}
+
+.seminor-info-table {
+    width: 100%;
+}
+
+.seminor-info-table th {
+    width: 20%;
+    text-align: center;
+    /*letter-spacing: -1.7px;*/
+}
+
+.seminor-info-table td {
+    width: 30%;
+    padding: 3px;
+}
+
+.seminor-info-img {
+    width: 100%;
+}
+
+/*.contact-title{
+	text-align: center;
+}*/
+
+.resume-content {
+    height: 100%;
+}
+
+.period-info {
+    text-align: right;
+}
+
+.period-info div {
+    display: inline-block;
+    font-size: 26px;
+}

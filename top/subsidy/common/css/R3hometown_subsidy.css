@@ -1,0 +1,48 @@
+.main-text {
+    text-align: center;
+}
+
+.commentary {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.border {
+    border-bottom: 1px solid #000;
+
+}
+
+.s-title {
+    text-indent: 0;
+    margin-top: 10px;
+}
+
+.supplement {
+    font-size: 20px;
+}
+
+.fa-file-alt {
+    font-size: 28px;
+}
+
+.fa-file-pdf {
+    font-size: 28px;
+}
+
+.fa-file-word {
+    font-size: 28px;
+}
+
+.box1 {
+    margin: 2em auto;
+    padding: 1em;
+    width: 90%;
+    border: 5px dotted #f09199;
+    background-color: #fff;
+    border-radius: 1px;
+    font-size: 20px;
+}
+
+.indent-80{
+    padding-left: 80px;
+}

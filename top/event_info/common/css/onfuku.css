@@ -1,0 +1,110 @@
+/*.onfuku-info {
+    padding-bottom: .5em;
+    border-bottom: 1px solid #ccc;
+    font-weight: 600;
+}*/
+.onfuku-main-visual {
+    background-image: url('../image/684551_m.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*min-height: 480px;*/
+}
+
+.onfuku-info span {
+    margin-right: .1em;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.onfuku-box {
+    position: relative;
+    padding: 0.25em 1em;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+.onfuku-box:before,
+.onfuku-box:after {
+    content: '';
+    width: 20px;
+    height: 30px;
+    position: absolute;
+    display: inline-block;
+}
+
+.onfuku-box:before {
+    border-left: solid 5px #5767bf;
+    border-top: solid 5px #5767bf;
+    top: 0;
+    left: 0;
+}
+
+.onfuku-box:after {
+    border-right: solid 5px #5767bf;
+    border-bottom: solid 5px #5767bf;
+    bottom: 0;
+    right: 0;
+}
+
+.onfuku-box p {
+    margin: 0;
+    padding: 0;
+}
+
+.sentence {
+    text-indent: 1em;
+}
+
+.qr-box {
+    padding: 5px;
+    margin: 0 auto;
+    font-weight: bold;
+    color: #6091d3;
+    /*文字色*/
+    background: #FFF;
+    border: solid 3px #6091d3;
+    /*線*/
+    border-radius: 10px;
+    /*角の丸み*/
+    width: 200px;
+    text-align: center;
+}
+
+.qr-box img {
+    display: inline-block;
+}
+
+.button-wrapper {
+    text-align: center;
+}
+
+.link-button {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.fa-external-link-square-alt{
+    margin-right: 10px;
+}
+
+/*boostrap-redefinition*/
+@media screen and (min-width: 991px) {
+
+    .qr-box-wrapper {
+        /*text-align: center;*/
+        margin-top: 32px;
+    }
+
+    h1 {
+        margin-top: 86px;
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+    .title-date {
+        margin-top: 14px;
+    }
+
+}

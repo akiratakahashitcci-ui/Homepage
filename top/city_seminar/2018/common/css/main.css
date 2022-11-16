@@ -1,0 +1,129 @@
+.sub-header {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+/*
+ * Placeholder dashboard ideas
+ */
+
+.placeholders {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.placeholders h4 {
+  margin-bottom: 0;
+}
+
+.placeholder {
+  margin-bottom: 20px;
+}
+
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.jumbotron {
+  background-size: cover;
+}
+
+/**/
+.page-title {
+  font-size: 25px;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.main-visual {
+  height: 100%;
+  background-image: url('../image/main-visual.jpg');
+}
+
+.col-sm-5 {
+  height: 100vh;
+  min-height: : 100vh;
+}
+
+.description {
+  text-indent: 1em;
+  font-size: 18px;
+}
+
+h3.procedure {
+    font-size: 20px;
+    color: #f7a49c;
+    font-weight: bold;
+}
+
+.iframe-wrapper {
+  height: 100%;
+}
+
+.news-iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.seminar-info {
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Hide for mobile, show later */
+/*.sidebar {
+    display: none;
+}*/
+
+@media (min-width: 768px) {
+  .sidebar {
+    position: fixed;
+    /*top: 51px;*/
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    /*padding: 20px;*/
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* Scrollable contents if viewport is shorter than content. */
+    /*background-color: #f5f5f5;*/
+    /*border-right: 1px solid #eee;*/
+  }
+}
+
+
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  .col-sm-5 {
+    /*height: 300px;*/
+    height: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+
+  .container .jumbotron,
+  .container-fluid .jumbotron {
+    margin: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .row-wrapper {
+    height: 480px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }
+}
