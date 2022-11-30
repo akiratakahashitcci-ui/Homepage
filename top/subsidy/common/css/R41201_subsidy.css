@@ -47,8 +47,23 @@ h2.accent {
     background: #f0fff0;
 }
 
+/*.bg-img1 {
+    background-image: url('../image/R41201_subsidy/2657852_m.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.mask-bg-img1 {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.bg-white-mask{
+    background-color: rgba(255, 255, 255, 0.8);
+}*/
+
+
 .bg-address {
-    background: #C8E7E9;
+    background: #dce0e0;
 }
 
 .fa-file-pdf {
@@ -79,6 +94,8 @@ h2.accent {
     /* 背景画像の透過用css */
     height: 100%;
     background: rgba(255, 255, 255, 0.7);
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .bg-mask .container h1 {
@@ -418,4 +435,10 @@ h2.accent {
     box-shadow: 0 0 5px 1px #ccc;
     text-align: center;
     font-size: 20px;
+}
+
+.scheme {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
 }
