@@ -442,3 +442,28 @@ h2.accent {
     margin: 0 auto;
     display: block;
 }
+
+
+.schedule-table th {
+    color: black;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.schedule-table td {
+    color: black;
+    background-color: #F5F5F5;
+    padding: 10px;
+    /*border-bottom: 1px dotted lightgray;*/
+}
+
+.schedule-table {
+    text-align: center;
+    border-collapse: collapse;
+    /*width: 400px;*/
+    /*font-size: 14px;*/
+    margin: 20px;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
