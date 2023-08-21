@@ -27,6 +27,14 @@ body {
     width: 20%;
 }
 
+.new-image {
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    right: 0;
+    width: 20%;
+}
+
 #mainNav {
     background: black;
 }
@@ -111,7 +119,8 @@ body {
 }
 
 .menu-company {
-    color: #8c8c8c;
+    /*color: #8c8c8c;*/
+    color: red;
     font-size: 14px;
     font-weight: bold;
     text-align: left;

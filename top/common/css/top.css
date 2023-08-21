@@ -239,3 +239,18 @@ input:checked+.tab_class+.content_class {
     font-size: 18px;
     background: linear-gradient(transparent 70%, #40bd62 70%);
 }
+
+.top-bunner-wrapper {
+    text-align: center;
+}
+
+.top-bunner {
+    width: 55%;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.comment {
+    color: red;
+    border-bottom: 1px solid #000;
+}
