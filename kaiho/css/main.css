@@ -14,11 +14,10 @@ body {
     width: 100%;
 }
 
-.blockcontents {
-    border: 1rem solid #e4f2f8;
-    height: 100%;
-    padding: 40px;
+.kaiho-wrapper {
+    margin-bottom: 20px;
 }
+
 
 .kaiho-wrapper {
     border: 1px solid #eeeeee;
@@ -43,4 +42,16 @@ body {
 .MoreText span {
     color: black;
     font-size: 1vw;
+}
+
+.row.blockcontents {
+    border: 1rem solid #e4f2f8;
+}
+
+
+.blockcontents {
+    border: 1rem solid #e4f2f8;
+/*    height: 100%;*/
+    padding: 20px;
+    margin: 20px;
 }

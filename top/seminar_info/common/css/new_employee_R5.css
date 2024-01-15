@@ -205,9 +205,11 @@ li {
     }
 }
 
-.time-line-separation{
+.time-line-separation {
     border-bottom: 1px solid #000;
     margin-bottom: 20px;
     font-weight: bold;
     font-size: 24px;
 }
+
+
