@@ -113,11 +113,11 @@
 }
 
 header.main-image {
-    background-image: url(../image/passport/mian_image.png);
+    background-image: url(../image/passport/main_image.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
-    background-color: #161a61;
+    background-color: #f2bc38;
 }
 
 

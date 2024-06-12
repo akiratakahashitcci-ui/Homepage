@@ -245,7 +245,7 @@ input:checked+.tab_class+.content_class {
 }
 
 .top-bunner {
-    width: 55%;
+    width: 100%;
     display: inline-block;
     margin: 0 auto;
 }
@@ -254,3 +254,4 @@ input:checked+.tab_class+.content_class {
     color: red;
     border-bottom: 1px solid #000;
 }
+
