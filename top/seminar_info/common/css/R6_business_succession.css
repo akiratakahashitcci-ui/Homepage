@@ -1,0 +1,138 @@
+.main-visual {
+    background-image: url('../image/4674259_m.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /*    min-height: 480px;*/
+    /*opacity: 0.1;*/
+}
+
+
+.bg-mask {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.organizer {
+    margin-bottom: 30px;
+}
+
+ul {
+    text-indent: 0;
+    margin-left: 25px;
+}
+
+i {
+    text-indent: 0;
+    margin-right: 10px;
+}
+
+
+blockquote {
+    font-size: 22px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+
+.padding-50 {
+    /*    text-indent: 50px;*/
+    padding-left: 50px;
+}
+
+.lead-sentence-title {
+    position: relative;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+.lead-sentence-title:before {
+    position: absolute;
+    bottom: -7px;
+    left: calc(50% - 30px);
+    width: 60px;
+    height: 5px;
+    content: '';
+    border-radius: 3px;
+    background: #000;
+}
+
+.lead-sentence {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.lead-sentence p {
+    text-indent: 20px;
+}
+
+
+.small-subheading {
+    font-size: 22px;
+    border-bottom: 1px solid #000;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 9px;
+}
+
+
+.contact-area {
+    background: rgb(242, 246, 245);
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.centering {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p.sentence {
+    text-indent: 20px;
+    margin: 0;
+}
+
+.t-padding {
+    padding-top: 20px;
+}
+
+.teacher-img {
+    width: 136px;
+    height: 157px;
+    margin-top: 20px;
+    border: 1px solid #aaa;
+}
+
+.t-name {
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.red {
+    color: red;
+}
+
+.border {
+    border-bottom: 1px solid #000;
+}
+
+.box {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    background: #f0f7ff;
+    border: dashed 2px #5b8bd0;
+}

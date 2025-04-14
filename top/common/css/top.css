@@ -47,6 +47,8 @@ hr {
     line-height: 30px;
     text-align: center;
     font-size: 19px;
+    display: inline-block;
+    align-content: center;
 }
 
 .subsidy-list {
