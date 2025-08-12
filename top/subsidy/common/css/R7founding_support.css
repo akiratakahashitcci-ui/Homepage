@@ -1,3 +1,8 @@
+.main-visual {
+    background-image: url(../image/29228987_m.jpg);
+    background-position: center;
+}
+
 .main-text {
     text-align: center;
 }
@@ -18,10 +23,10 @@
 }
 
 
-.fa-file-word{
-	font-size: 28px;
+.fa-file-word {
+    font-size: 28px;
 }
 
-.note{
-	font-size: 20px;
+.note {
+    font-size: 20px;
 }

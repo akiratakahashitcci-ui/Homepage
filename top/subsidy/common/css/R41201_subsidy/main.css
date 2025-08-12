@@ -1,0 +1,147 @@
+.main-image {
+    background-image: url('../../image/22260553_m.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.shop-info {
+    text-align: left;
+    padding: 20px;
+}
+
+.title-1 {
+    font-size: 30px;
+}
+
+.shop-info {
+    opacity: 0.92;
+    height: 300px;
+}
+
+.shop-info .shop-info-title {
+    border-top: dotted 3px rgba(193, 176, 125, .4);
+}
+
+.shop-info .shop-info-inner {
+    color: #644725;
+    line-height: 1.4;
+    padding-top: 10px;
+}
+
+.shop-info .shop-info-inner p {
+    margin: 0;
+}
+
+.shop-info .shop-info-inner table th {
+    text-align: justify;
+}
+
+.shop-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.store-area {
+    --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.store-area:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    transition: 0.5s all;
+}
+
+.store-area .shop-image {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.store-1 .shop-image {
+    background-image: url('../../image/R41201_subsidy/store-image/store-1.jpg');
+}
+
+.store-2 .shop-image {
+    background-image: url('../../image/R41201_subsidy/store-image/store-2.jpg');
+}
+
+.store-3 .shop-image {
+    background-image: url('../../image/R41201_subsidy/store-image/store-3.jpg');
+}
+
+.display-5 {
+    font-weight: bold;
+}
+
+.footer-outer-1 {
+    background: #aed9ee;
+    padding: 30px;
+}
+
+.footer-outer-2 {
+    background: #082e41;
+    padding: 10px;
+    color: white;
+}
+
+.tel-num {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.contact-us-title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.contact-us-time {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+footer .address {
+    font-size: 20px;
+}
+
+footer .note1 {
+    font-size: 20px;
+}
+
+.footer-title-1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*.bg-gray {
+    background-color: #e5e7eb;
+}*/
+
+@media (min-width: 1024px) {
+    .lg\:grid-cols-3 {
+        grid-template-columns: repeat(3, minmax(0, 1fr))
+    }
+}
+
+
+
+/*override*/
+@media (min-width: 768px) {
+    .pt-md-5 {
+        padding-top: 0rem !important;
+    }
+}
+
+
+.display-5 {
+    font-size: calc(0.75rem + 2.1vw);
+    font-weight: bold;
+    line-height: 1.2;
+}
