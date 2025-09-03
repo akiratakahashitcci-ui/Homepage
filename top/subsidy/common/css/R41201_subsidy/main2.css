@@ -1,0 +1,45 @@
+h1.title-text-1 {
+    color: white;
+    text-shadow: 4px 4px black;
+}
+
+h3.title-text-2 {
+    color: lightgray;
+    text-shadow: 2px 2px black;
+    font-size: 2em;
+}
+
+div.title-text-2 {}
+
+.icon-link {
+    color: #fff;
+    /*文字の色*/
+    background-color: #333;
+    /*リンクボタンの色*/
+    border-radius: 2em;
+    /*角を丸くする*/
+    transition: 0.3s;
+    /*マウスオンした時の変化のスピード*/
+    position: relative;
+    /*矢印アイコン位置の基点になる要素として指定*/
+    padding: 5px 25px;
+}
+
+.icon-link::after {
+    /*疑似要素のbeforeを使って表示する*/
+    font-family: "Font Awesome 6 Free";
+    /*アイコンフォントを使う*/
+    font-weight: 900;
+    /*無料版（solid）は900に設定する*/
+    content: "\f054";
+    /*使用したいアイコンフォントのコードを入れる*/
+    position: absolute;
+    /*矢印アイコンを基点の要素に対して自由に配置できるようにする*/
+    right: 1em;
+    /*矢印を基点の要素の右から1文字文内側に動かす*/
+}
+
+.icon-link:hover {
+    opacity: 0.8;
+    /*マウスオンしたときに８０％まで要素を薄くする*/
+}
