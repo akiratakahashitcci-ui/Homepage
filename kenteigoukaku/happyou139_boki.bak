@@ -1,0 +1,440 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta name=ProgId content=Excel.Sheet>
+<META name="Generator" content="IBM WebSphere Studio Homepage Builder Version 6.5.0.0 for Windows">
+<META name="GENERATOR" content="IBM WebSphere Homepage Builder V6.0.1 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<META name="IBM:DeviceType" content="800*600">
+<LINK rel="File-List" href="../../boki6.13.files/filelist.xml">
+<LINK rel="Edit-Time-Data" href="../../boki6.13.files/editdata.mso">
+<LINK rel="OLE-Object-Data" href="../../boki6.13.files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>敦賀商工会議所</o:Author>
+  <o:LastAuthor>敦賀商工会議所</o:LastAuthor>
+  <o:LastPrinted>2004-02-24T05:42:31Z</o:LastPrinted>
+  <o:Created>2000-06-19T23:46:01Z</o:Created>
+  <o:LastSaved>2004-06-23T02:14:59Z</o:LastSaved>
+  <o:Company>敦賀商工会議所</o:Company>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:D:\msowc.cab"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{mso-header-data:"&C&\0022HGSｺﾞｼｯｸE\,ｴｸｽﾄﾗﾎﾞｰﾙド 斜体\0022&28&U";
+	margin:1.72in .37in .65in .61in;
+	mso-header-margin:.66in;
+	mso-footer-margin:.33in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"ＭＳ Ｐゴシック";
+	mso-generic-font-family:auto;
+	mso-font-charset:128;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:標準;
+	mso-style-id:0;}
+TD
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	
+	font-size : 14pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"ＭＳ Ｐゴシック";
+	mso-generic-font-family:auto;
+	mso-font-charset:128;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-size : 12pt;
+	font-family:"ＭＳ Ｐゴシック", monospace;
+	mso-font-charset:128;
+	text-align:center;
+	vertical-align:middle;
+  font-weight : 400;
+  text-decoration : none;
+}
+.xl25
+	{mso-style-parent:style0;
+	font-size:28.0pt;
+	font-family:"ＭＳ Ｐゴシック", monospace;
+	mso-font-charset:128;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;}
+.xl26
+	{mso-style-parent:style0;
+	font-size:20.0pt;
+	font-family:"ＭＳ Ｐゴシック", monospace;
+	mso-font-charset:128;
+	text-align:center;
+	vertical-align:middle;}
+.xl27
+	{mso-style-parent:style0;
+	font-size:18.0pt;
+	font-family:"ＭＳ Ｐゴシック", monospace;
+	mso-font-charset:128;
+	text-align:center;
+	vertical-align:middle;}
+.xl28
+	{mso-style-parent:style0;
+	font-size:22.0pt;
+	font-family:"ＭＳ Ｐゴシック", monospace;
+	mso-font-charset:128;
+	text-align:center;
+	vertical-align:middle;}
+.xl29
+	{mso-style-parent:style0;
+	font-size:18.0pt;
+	font-family:"ＭＳ Ｐゴシック", monospace;
+	mso-font-charset:128;
+	text-align:right;
+	vertical-align:middle;}
+.xl30
+	{mso-style-parent:style0;
+	font-size:26.0pt;
+	font-weight:700;
+	font-family:HGP創英角ｺﾞｼｯｸUB, monospace;
+	mso-font-charset:128;
+	text-align:center;
+	vertical-align:middle;}
+.xl31
+	{mso-style-parent:style0;
+	font-size:20.0pt;
+	font-weight:700;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:HGP創英角ｺﾞｼｯｸUB, monospace;
+	mso-font-charset:128;
+	text-align:right;
+	vertical-align:middle;}
+.xl32
+	{mso-style-parent:style0;
+	font-size:24.0pt;
+	font-weight:700;
+	font-family:"ＭＳ 明朝", serif;
+	mso-font-charset:128;
+	text-align:right;
+	vertical-align:middle;}
+.xl33
+	{mso-style-parent:style0;
+	font-size:28.0pt;
+	font-family:"ＭＳ Ｐゴシック", monospace;
+	mso-font-charset:128;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl34
+	{mso-style-parent:style0;
+	font-size:24.0pt;
+	font-weight:700;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:HGP創英角ｺﾞｼｯｸUB, monospace;
+	mso-font-charset:128;
+	text-align:right;
+	vertical-align:middle;}
+.xl35
+	{mso-style-parent:style0;
+	font-size:22.0pt;
+	font-family:"ＭＳ Ｐゴシック", monospace;
+	mso-font-charset:128;
+	vertical-align:middle;}
+.xl36
+	{mso-style-parent:style0;
+	font-size:28.0pt;
+	font-family:"ＭＳ Ｐゴシック", monospace;
+	mso-font-charset:128;
+	vertical-align:middle;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:6.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"ＭＳ Ｐゴシック", monospace;
+	mso-font-charset:128;
+	mso-char-type:katakana;
+	display:none;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>799</x:DefaultRowHeight>
+     <x:Unsynced/>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>8</x:PaperSizeIndex>
+      <x:HorizontalResolution>-4</x:HorizontalResolution>
+      <x:VerticalResolution>600</x:VerticalResolution>
+     </x:Print>
+     <x:Zoom>50</x:Zoom>
+     <x:Selected/>
+     <x:TopRowVisible>10</x:TopRowVisible>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>13</x:ActiveRow>
+       <x:ActiveCol>9</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet2</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>270</x:DefaultRowHeight>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet3</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>270</x:DefaultRowHeight>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8100</x:WindowHeight>
+  <x:WindowWidth>14955</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>105</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+<TITLE>敦賀商工会議所 簿記検定試験合格発表</TITLE>
+</head>
+
+<body link=blue vlink=purple class=xl24>
+<P align="left"><A href="index.html" target="_self"><IMG src="image/17modoru.gif" width="75" height="69" border="0"></A></P>
+<P align="center"><B><FONT size="+4" color="#00b700" face="ＭＳ ゴシック">第139回簿記検定試験合格者</FONT></B></P>
+<CENTER>
+<TABLE height="120" width="500">
+  <TBODY>
+    <TR>
+      <TD align="left" bgcolor="#ffffff" width="500" height="35"><B><FONT size="+1">○試験実施日　　平成２７年２月２２日（日）</FONT></B></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" width="500" height="35"><B><FONT size="+1">○試験会場　　　 福井県立敦賀高等学校　商業棟</FONT></B></TD>
+    </TR>
+          <TR>
+      <TD align="center">
+      <TABLE>
+        <TBODY>
+          <TR>
+            <TD align="left"></TD>
+            <TD></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+    </TR>
+        </TBODY>
+</TABLE>
+<DIV>
+<TABLE width="500">
+  <TBODY>
+    <TR>
+      <TD colspan="8" align="center" height="42"></TD>
+    </TR>
+    <TR>
+      <TD colspan="8"></TD>
+    </TR>
+    <TR>
+      <TD width="100%" height="40" colspan="8" align="center"><FONT size="+3" color="#000099" face="ＤＦＰ特太ゴシック体"><B>　〔２級〕</B></FONT><FONT size="+2" color="#ff0000" face="ＤＦＰ特太ゴシック体"><B><FONT face="ＭＳ 明朝" size="+1"></FONT></B></FONT><FONT size="+1" color="#ff0000" face="ＤＦＰ特太ゴシック体"><B><FONT face="ＭＳ 明朝">　</FONT></B></FONT><FONT size="+2" color="#ff0000" face="MS UI Gothic"><FONT face="MS UI Gothic" size="+1"><B><FONT face="MS UI Gothic" size="+2">合格者 １７名</FONT></B></FONT></FONT><FONT size="+2" color="#ff0000" face="ＤＦＰ特太ゴシック体">　</FONT><FONT size="+1" color="#ff0000" face="ＤＦＰ特太ゴシック体">　　</FONT></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</DIV>
+<BR>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TD align="center" height="58" width="79"><FONT size="+3">４<BR>
+      </FONT></TD>
+      <TD align="center" width="74"><FONT size="+3">２１</FONT></TD>
+    <TR>
+      <TD align="center" width="79" height="54"><FONT size="+3">５<BR>
+      </FONT></TD>
+      <TD align="center" width="74" height="54"><FONT size="+3">２２</FONT></TD>
+    </TBODY>
+</TABLE>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TD align="center" height="58" width="79"><FONT size="+3">８<BR>
+      </FONT></TD>
+      <TD align="center" width="74"><FONT size="+3">２３</FONT></TD>
+    
+    <TR>
+      <TD align="center" width="79" height="55"><FONT size="+3">１１</FONT></TD>
+      <TD align="center" width="74" height="55"><FONT size="+3">２８</FONT></TD>
+    
+  </TBODY>
+</TABLE>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TD align="center" height="58" width="79"><FONT size="+3">１４<BR>
+      </FONT></TD>
+      <TD align="center" width="74"><FONT size="+3">３４</FONT></TD>
+    
+    <TR>
+      <TD align="center" width="79" height="57"><FONT size="+3">１５</FONT></TD>
+      <TD align="center" width="74" height="57"><FONT size="+3">３５</FONT></TD>
+    
+  </TBODY>
+</TABLE>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TD align="center" height="58" width="79"><FONT size="+3">１６<BR>
+      </FONT></TD>
+      <TD align="center" width="74"><FONT size="+3">３６</FONT></TD>
+    
+    <TR>
+      <TD align="center" width="79" height="58"><FONT size="+3">１８</FONT></TD>
+      <TD align="center" width="74" height="58"><FONT size="+3">３７</FONT></TD>
+    
+  </TBODY>
+</TABLE>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TD align="center" height="58" width="79"><FONT size="+3">１９<BR>
+      </FONT></TD>
+      <TD align="center" width="74"></TD>
+    
+    <TR>
+      <TD align="center" width="79" height="58"></TD>
+      <TD align="center" width="74" height="58"></TD>
+    
+  </TBODY>
+</TABLE>
+<BR>
+<BR>
+<BR>
+      <DIV>
+<TABLE width="500">
+  <TBODY>
+    <TR>
+      <TD width="100%" height="40" colspan="8" align="center">　<FONT size="+3" color="#000099" face="ＤＦＰ特太ゴシック体"><B>　 〔３級〕</B></FONT><FONT size="+2" color="#ff0000" face="ＤＦＰ特太ゴシック体"><B><FONT face="ＭＳ 明朝" size="+1">　</FONT></B></FONT><FONT size="+3" color="#ff0000" face="ＤＦＰ特太ゴシック体"><B><FONT face="MS UI Gothic" size="+2">合格者 １８名</FONT></B></FONT><FONT size="+2" color="#ff0000" face="ＤＦＰ特太ゴシック体">　</FONT><FONT size="+1" color="#ff0000" face="ＤＦＰ特太ゴシック体">　　</FONT></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</DIV>
+<BR>
+<TABLE>
+<TBODY>
+  <TR>
+      <TD align="center" height="51" valign="middle" width="86"><FONT size="+3">１<BR>
+      </FONT></TD>
+      <TD align="center" valign="middle" width="74"><FONT size="+3">１３</FONT></TD>
+    <TR>
+      <TD align="center" height="53" valign="middle" width="86"><FONT size="+3">２</FONT></TD>
+      <TD align="center" valign="middle" width="74"><FONT size="+3">１４</FONT></TD>
+    <TR>
+      <TD align="center" valign="middle" height="52" width="86"><FONT size="+3">３<BR>
+      </FONT></TD>
+      <TD align="center" valign="middle" height="52" width="74"><FONT size="+3">１５</FONT></TD>
+    <TR>
+      <TD align="center" valign="middle" height="55" width="86"><FONT size="+3">４<BR>
+      </FONT></TD>
+      <TD align="center" valign="middle" height="55" width="74"><FONT size="+3">１６</FONT></TD>
+    <TR>
+      <TD align="center" valign="middle" height="52" width="86"><FONT size="+3">５</FONT></TD>
+      <TD align="center" valign="middle" height="52" width="74"><FONT size="+3">１８</FONT></TD>
+    </TR>
+    <TR>
+      <TD align="center" valign="middle" height="51" width="86"><FONT size="+3">６</FONT></TD>
+      <TD align="center" valign="middle" height="51" width="74"><FONT size="+3">２１</FONT></TD>
+    </TR>
+    <TR>
+      <TD align="center" valign="middle" height="51" width="86"><FONT size="+3">７</FONT></TD>
+      <TD align="center" valign="middle" height="51" width="74"><FONT size="+3">２２</FONT></TD>
+    </TR>
+    <TR>
+      <TD align="center" valign="middle" width="86" height="54"><FONT size="+3">９</FONT></TD>
+      <TD align="center" valign="middle" width="74" height="54"><FONT size="+3">２３</FONT></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TD align="center" height="56" width="82" valign="middle"><FONT size="+3">１０</FONT></TD>
+      <TD height="56" align="center" width="78" valign="middle"><FONT size="+3">２４<BR>
+      </FONT></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<BR>
+<BR>
+      <DIV><A href="index.html" target="_self"><IMG src="image/17modoru.gif" width="75" height="69" border="0"></A><BR>
+<BR>
+      </DIV>
+</CENTER>
+</body>
+
+</html>

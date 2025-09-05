@@ -1,0 +1,332 @@
+body {
+    color: #5a5a5a;
+    font-family: 游ゴシック体, Yu Gothic, YuGothic, ヒラギノ角ゴ Pro, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, MS Pゴシック, MS PGothic, sans-serif;
+}
+
+.main-visual {
+    background-image: url('../image/899912_m.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-mask {
+    /*背景画像の透過部分*/
+    height: 100%;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.bg-mask .container h1,
+.bg-mask .container h2 {
+    text-align: center;
+}
+
+.title-date {
+    text-align: center;
+    font-weight: bold;
+}
+
+.normal-text {
+    font-size: 18px;
+}
+
+ul.list-normal {
+    padding-left: 15px;
+}
+
+.prof-table th {
+    padding-right: 10px;
+}
+
+.prof-company {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.prof-name {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.prof-name {
+    position: relative;
+    text-align: center;
+}
+
+.prof-name:before {
+    position: absolute;
+    bottom: -6px;
+    left: calc(50% - 30px);
+    width: 60px;
+    height: 5px;
+    content: '';
+    border-radius: 10px;
+    background: #555;
+}
+
+.prof-text {
+    text-align: left;
+    font-size: 14px;
+    text-indent: 1em;
+}
+
+.prof-image {
+    width: 140px;
+    height: 200px;
+    /*padding-top: 10px;*/
+    margin-top: 10px;
+}
+
+.box1 {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 1em 1.5em;
+    margin: 2em 0;
+    background-color: #f4f9ff;
+    border: 1px solid #84c1ff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    color: #000000;
+}
+
+.box1 div {
+    margin: 0;
+    padding: 0;
+}
+
+.box1 p {
+    text-indent: 1em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.list-style-none {
+    list-style: none;
+}
+
+.box2 {
+    position: relative;
+    margin: 0 auto;
+    padding: 1.2em;
+    color: #555555;
+    background-color: #fff;
+    border: 2px solid #84c1ff;
+    box-shadow: 2px 2px 1px #ccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.box2-title {
+    font-size: 22px;
+    position: absolute;
+    padding: 0 .5em;
+    left: 20px;
+    top: -15px;
+    background-color: #fff;
+}
+
+.box3 {
+    padding: 0.5em 1em;
+    margin: 10px 0;
+    background: #f4f9ff;
+    border: dashed 2px #84c1ff;
+}
+
+.box3 .row {
+    margin-bottom: 15px;
+}
+
+.box3-title {
+    border-bottom: 1px solid #000;
+    font-size: 20px;
+    text-indent: 0;
+    margin-bottom: 10px;
+}
+
+.border-none {
+    border: none;
+}
+
+.text-area {
+    text-indent: 1em:;
+    font-size: 16px;
+}
+
+.centence-title {
+    font-size: 27px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    border-bottom: solid 3px #cce4ff;
+    position: relative;
+}
+
+.centence-title:after {
+    position: absolute;
+    content: " ";
+    display: block;
+    border-bottom: solid 3px #5472cd;
+    bottom: -3px;
+    width: 20%;
+}
+
+.button-wrapper {
+    text-align: center;
+}
+
+.link-button {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.li-info {
+    width: 100%;
+    table-layout: fixed;
+    padding: 8px 8px 8px 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px dotted #ababab;
+}
+
+.li-info:first-child {
+    border-top: 1px dotted #ababab;
+}
+
+.li-info .info-type {
+    display: inline-block;
+    width: 115px;
+}
+
+.li-info .info-type.eat {
+    letter-spacing: 0.16em;
+}
+
+.li-info .date {
+    padding-right: 15px;
+}
+
+.link-info {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.link-info a {
+    word-break: break-all;
+}
+
+.link-title {
+    margin-bottom: 0;
+}
+
+.address {
+    text-align: center;
+}
+
+
+.marketing .col-xs-12 {
+    text-align: center;
+}
+
+.marketing .col-sm-4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.marketing .col-md-4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing .col-lg-6 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.featurette-divider {
+    margin: 20px 0;
+    border: 0;
+}
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.featurette-heading-sub {
+    margin-top: 10px;
+}
+
+
+.line-centence {
+    border-bottom: 1px solid black;
+}
+
+.return-top {
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.blockquote-title {
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px;
+    color: red;
+}
+
+
+/*.param1 {
+    color: blue;
+}*/
+
+.indent-20 {
+    text-indent: 20px;
+}
+
+/* RESPONSIVE
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+    .navbar-wrapper {
+        margin-top: 20px;
+    }
+
+    .navbar-wrapper .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .navbar-wrapper .navbar {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .featurette-heading {
+        font-size: 28px;
+    }
+
+    .featurette-heading-sub {
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+
+    .jumbotron h1,
+    .jumbotron .h1 {
+        font-size: 50px;
+        font-weight: bold;
+    }
+}

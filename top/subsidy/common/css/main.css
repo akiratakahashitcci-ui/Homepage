@@ -1,0 +1,376 @@
+body {
+    color: #5a5a5a;
+}
+
+
+a {
+    word-break: break-all;
+}
+
+.title-date {
+    text-align: right;
+}
+
+.main-visual {
+    /*background-image: url('../image/main-visual.png');*/
+    background-color: #4b8fd9;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*min-height: 480px;*/
+    /*opacity: 0.1;*/
+}
+
+
+.main-text {
+    font-size: 28px;
+    padding: 8px 19px;
+    margin: 2em 0;
+    color: #2c2c2f;
+    background: #cde4ff;
+    border-top: solid 5px #5989cf;
+    border-bottom: solid 5px #5989cf;
+}
+
+.main-text p {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    border: 2px solid #0094D6;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 1em;
+    margin-bottom: 50px;
+    padding-left: 10px;
+}
+
+.box h3 {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: -1.7em;
+    margin-left: 1em;
+}
+
+.box span {
+    padding: 0 .5em;
+    background: #FFF;
+    color: #5a5a5a;
+}
+
+.spacing1 {
+    letter-spacing: -2px;
+}
+
+.box .inner {
+    padding: 1.2em .5em .5em;
+}
+
+.fa-file-pdf {
+    font-size: 28px;
+}
+
+.fa-file-excel {
+    font-size: 28px;
+}
+
+.document-dl-link {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
+.bg-mask {
+    /* 背景画像の透過用css */
+    height: 100%;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+
+.centence-title {
+    position: relative;
+    padding: 5px 26px 5px 42px;
+    background: #eaf3ff;
+    font-size: 20px;
+    color: #516ab6;
+    margin-left: -33px;
+    line-height: 1.3;
+    border-bottom: solid 3px #516ab6;
+    z-index: -2;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.centence-title:before {
+    position: absolute;
+    content: '';
+    left: -2px;
+    top: -2px;
+    width: 0;
+    height: 0;
+    border: none;
+    border-left: solid 40px white;
+    border-bottom: solid 79px transparent;
+    z-index: -1;
+}
+
+.centence-title:after {
+    position: absolute;
+    content: '';
+    right: -3px;
+    top: -7px;
+    width: 0;
+    height: 0;
+    border: none;
+    border-left: solid 40px transparent;
+    border-bottom: solid 79px white;
+    z-index: -1;
+}
+
+.adjust-tag-1 {
+    display: inline-block;
+    width: 200px;
+}
+
+.margin10 {
+    margin-top: 10px;
+}
+
+.margin20 {
+    margin-top: 20px;
+}
+
+
+.marketing .col-md-4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing .col-lg-6 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing h2 {
+    font-weight: normal;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+.featurette-divider {
+    margin: 30px 0;
+    border: 0;
+}
+
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.featurette-heading-sub {
+    margin-top: 10px;
+}
+
+.seminar-info-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.seminar-info {
+    text-indent: 22px;
+    font-size: 22px;
+}
+
+.seminar-info.note {
+    font-size: 20px;
+    margin: 0;
+}
+
+.seminar-info.remarks {
+    font-size: 18px;
+}
+
+.line-centence {
+    border-bottom: 1px solid black;
+}
+
+#pageTop {
+    display: inline-block;
+    text-align: center;
+}
+
+.wrapper1 {
+    text-align: right;
+}
+
+#pageTop {
+    display: inline-block;
+    padding: 0.3em 1em;
+    text-decoration: none;
+    color: #67c5ff;
+    border: solid 2px #67c5ff;
+    border-radius: 3px;
+    transition: .4s;
+}
+
+#pageTop:hover {
+    background: #67c5ff;
+    color: white;
+}
+
+.return-top {
+    text-align: center;
+    font-size: 22px;
+    margin: 20px;
+}
+
+.red-frame {
+    border: 5px solid red;
+    padding: 10px;
+    background-color: white;
+}
+
+.em_1 {
+    padding-left: 1em;
+}
+
+.font_36 {
+    font-size: 36px;
+}
+
+.seminar-info li {
+    text-indent: 0;
+}
+
+.seminar-info ol {
+    margin-bottom: 0;
+}
+
+.style-decimal {
+    list-style-type: decimal;
+}
+
+.style-none {
+    list-style-type: none;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.border_bottom {
+    border-bottom: 3px solid red;
+}
+
+.title-wrapper {
+    text-align: center;
+}
+
+.title-wrapper h2 {
+    margin: 0;
+}
+
+/*.featurette-heading{
+    font-size: 20px;
+}*/
+
+/* RESPONSIVE
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+    .navbar-wrapper {
+        margin-top: 20px;
+    }
+
+    .navbar-wrapper .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .navbar-wrapper .navbar {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .featurette-heading {
+        font-size: 28px;
+    }
+
+    .featurette-heading-sub {
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .featurette-heading {
+        /*margin-top: 70px;*/
+    }
+}
+
+
+.jumbotron h1 {
+    text-shadow: 1px 1px 3px #fff,
+        -1px 1px 3px #fff,
+        1px -1px 3px #fff,
+        -1px -1px 3px #fff;
+}
+
+.jumbotron p {
+    text-shadow: 1px 1px 1px #fff,
+        -1px 1px 1px #fff,
+        1px -1px 1px #fff,
+        -1px -1px 1px #fff;
+}
+
+/*boostrap-redefinition*/
+@media screen and (min-width: 768px) {
+
+    .jumbotron h1,
+    .jumbotron .h1 {
+        font-size: 48px;
+        font-weight: bold;
+        display: inline-block;
+        font-weight: bold;
+        text-shadow: 1px 1px 3px #fff,
+            -1px 1px 3px #fff,
+            1px -1px 3px #fff,
+            -1px -1px 3px #fff;
+    }
+
+
+}
+
+@media screen and (max-width: 768px) {
+
+    .main-text p {
+        font-size: 22px;
+    }
+
+    .main-text p.sub {
+        font-size: 18px;
+    }
+}
+
+.red {
+    color: red;
+    font-size: 16px;
+}
+
+.red2 {
+    color: red;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}

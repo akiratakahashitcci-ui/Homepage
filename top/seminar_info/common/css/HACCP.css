@@ -1,0 +1,115 @@
+.main-visual {
+    background-image: url('../image/1507061_m.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /*    min-height: 480px;*/
+    /*opacity: 0.1;*/
+}
+
+
+.bg-mask {
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.organizer {
+    margin-bottom: 30px;
+}
+
+ul {
+    text-indent: 0;
+    margin-left: 25px;
+}
+
+i {
+    text-indent: 0;
+    margin-right: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.indent-50 {
+    text-indent: 50px;
+}
+
+.lead-sentence-title {
+    position: relative;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+.lead-sentence-title:before {
+    position: absolute;
+    bottom: -7px;
+    left: calc(50% - 30px);
+    width: 60px;
+    height: 5px;
+    content: '';
+    border-radius: 3px;
+    background: #000;
+}
+
+.lead-sentence {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.lead-sentence p {
+    text-indent: 20px;
+}
+
+
+.small-subheading {
+    font-size: 22px;
+    border-bottom: 1px solid #000;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 9px;
+}
+
+
+.contact-area {
+    background: rgb(242, 246, 245);
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.centering {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p.sentence {
+    text-indent: 20px;
+    margin: 0;
+}
+
+.t-padding {
+    padding-top: 20px;
+}
+
+.teacher-img {
+    width: 136px;
+    height: 170px;
+}
+
+.t-name {
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.red {
+    color: red;
+}
+
+.border {
+    border-bottom: 1px solid #000;
+}

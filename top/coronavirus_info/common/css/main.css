@@ -1,0 +1,292 @@
+body {
+    color: #5a5a5a;
+    font-family: 游ゴシック体, Yu Gothic, YuGothic, ヒラギノ角ゴ Pro, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, MS Pゴシック, MS PGothic, sans-serif;
+}
+
+.main-visual {
+    background-image: url('../image/main-visual.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: #4b8fd9;
+    /*min-height: 480px;*/
+    /*opacity: 0.1;*/
+}
+
+.bg-mask .container {
+    /* 背景画像の透過用css */
+    /*    height: 100%;
+    background: rgba(255, 255, 255, 0.5);*/
+    background: #fff;
+    color: #05468e;
+    border: 6px solid #05468e;
+}
+
+.bg-mask .container p {
+    font-weight: bold;
+}
+
+.lead-sentence {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.centence-title {
+    font-size: 22px;
+    font-weight: bold;
+    border-bottom: 1px solid #d3d3d3;
+    position: relative;
+    padding-top: 5px;
+}
+
+.link-button {
+    font-weight: bold;
+}
+
+/*.link-button {
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: #05468e;
+    text-align: center;
+    color: white;
+    width: 150px;
+}*/
+
+.history {
+    text-align: right;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.history span {
+    border: 3px solid #d3d3d3;
+}
+
+.new-information-wrapper {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.new-information {
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    border-bottom: solid 3px #cce4ff;
+    /*padding-left: 30px;*/
+    position: relative;
+}
+
+.new-information:after {
+    position: absolute;
+    content: " ";
+    display: block;
+    border-bottom: solid 3px #5472cd;
+    bottom: -3px;
+    width: 20%;
+}
+
+.new-information-list {
+    height: 300px;
+    /*    overflow-y: hidden;
+    overflow-y: scroll;*/
+    /*overflow-x: scroll;*/
+    overflow-y: scroll;
+}
+
+.li-info {
+    /*display: table;*/
+    width: 100%;
+    table-layout: fixed;
+    padding: 8px 8px 8px 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px dotted #ababab;
+}
+
+.li-info:first-child {
+    border-top: 1px dotted #ababab;
+}
+
+.li-info .date {
+    padding-right: 15px;
+}
+
+.link-info {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.link-info a {
+    word-break: break-all;
+}
+
+
+.address {
+    text-align: center;
+}
+
+.marketing {
+    /*box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22)*/
+}
+
+.marketing .col-sm-4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.marketing .col-md-4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing .col-lg-6 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing h2 {
+    font-weight: normal;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+.merit-icon {
+    color: #2bbbce;
+    font-size: 80px;
+}
+
+
+.featurette-divider {
+    margin: 20px 0;
+    border: 0;
+}
+
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+
+.panel-heading {
+    text-align: center;
+    font-size: 24px;
+}
+
+.featurette-heading-sub {
+    margin-top: 10px;
+}
+
+.seminar-info-title {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.seminar-info {
+    text-indent: 20px;
+    font-size: 18px;
+}
+
+.seminar-info.postscript {
+    font-size: 18px;
+}
+
+.seminar-info.remarks {
+    font-size: 18px;
+}
+
+.panel-heading {
+    font-size: 26px;
+    background-color: rgb(255, 246, 186);
+}
+
+.panel-body {
+    font-size: 24px;
+}
+
+
+.panel-body div {
+    text-align: left;
+    font-size: 20px;
+}
+
+
+.line-centence {
+    border-bottom: 1px solid black;
+}
+
+.return-top {
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+}
+
+
+.caution {
+    margin-left: 40px;
+}
+
+/*.red-frame{
+    border: 5px solid red;
+    padding: 10px;
+    background-color: white;
+}*/
+
+
+/*.featurette-heading{
+    font-size: 20px;
+}*/
+
+/* RESPONSIVE
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+    .navbar-wrapper {
+        margin-top: 20px;
+    }
+
+    .navbar-wrapper .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .navbar-wrapper .navbar {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .featurette-heading {
+        font-size: 28px;
+    }
+
+    .featurette-heading-sub {
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .featurette-heading {
+        /*margin-top: 70px;*/
+    }
+}
+
+/*boostrap-redefinition*/
+@media screen and (min-width: 768px) {
+
+    .jumbotron h1,
+    .jumbotron .h1 {
+        font-size: 50px;
+        font-weight: bold;
+    }
+}
+
+/*boostrap-redefinition*/

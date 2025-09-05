@@ -1,0 +1,73 @@
+        <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
+            <div class="bg-body-tertiary me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden store-area store-1">
+                <div class="my-3 p-3">
+                    <h2 class="display-5">おこめのうまみ</h2>
+                    <p class="lead">店舗情報</p>
+                </div>
+                <div class="bg-body shadow-sm mx-auto shop-info" style="width: 100%; border-radius: 21px 21px 0 0;">
+                    <div class="shop-info-inner">
+                        <div class="shop-comment">北陸新幹線敦賀開業を機に、今回の補助金を活用し、新規開業する事が出来ました。「お米の旨味」を最大限に引き出した、羽釜で炊いた「炊き立てご飯のおむすび」で“幸せ”と“笑顔”をつくり出す、をコンセプトに地元福井・敦賀の美味しいものをPRして参ります。
+                        </div>
+                        <h4 class="shop-info-title">SHOP INFO</h4>
+                        <table>
+                            <tr>
+                                <th>所在地</th>
+                                <td>:</td>
+                                <td>敦賀市本町2丁目11-5</td>
+                            </tr>
+                            <tr>
+                                <th>電話番号</th>
+                                <td>:</td>
+                                <td>090-6829-1105</td>
+                            </tr>
+                            <tr>
+                                <th>営業時間</th>
+                                <td>:</td>
+                                <td>7:00～10:00/11:00～14:00</td>
+                            </tr>
+                            <tr>
+                                <th>定休日</th>
+                                <td>:</td>
+                                <td>木曜日</td>
+                            </tr>
+                        </table>
+                        <div class="to-detail"><a href="https://okomeno-umami.jimdofree.com/"></a>➤詳細はこちら</div>
+                    </div>
+                </div>
+            </div>
+            <div class="bg-body-tertiary me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden store-area store-2">
+                <div class="my-3 py-3">
+                    <h2 class="display-5">なかむらや</h2>
+                    <p class="lead">店舗情報</p>
+                </div>
+                <div class="bg-body shadow-sm mx-auto shop-info" style="width: 100%; border-radius: 21px 21px 0 0;">
+                    <div class="shop-info-inner">
+                        <div class="shop-comment">敦賀真鯛・若狭まはた等の県産ブランド魚のお料理を提供するお食事処。自家養殖場で真心こめて育てている養殖魚を使用しています。
+                        </div>
+                        <h4 class="shop-info-title">SHOP INFO</h4>
+                        <table>
+                            <tr>
+                                <th>所在地</th>
+                                <td>:</td>
+                                <td>敦賀市神楽町1丁目4-7</td>
+                            </tr>
+                            <tr>
+                                <th>電話番号</th>
+                                <td>:</td>
+                                <td>0770-36-1705</td>
+                            </tr>
+                            <tr>
+                                <th>営業時間</th>
+                                <td>:</td>
+                                <td>11:00〜15:00(L.O 14:30)</td>
+                            </tr>
+                            <tr>
+                                <th>定休日</th>
+                                <td>:</td>
+                                <td>月曜(祝日の場合営業、翌日休み)</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>

@@ -1,0 +1,349 @@
+body {
+    color: #5a5a5a;
+}
+
+.main-visual {
+    background-image: url('../image/main-visual.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*min-height: 480px;*/
+}
+
+.main-visual h2 {
+    text-align: center;
+    text-shadow: 1px 1px 1px #fff,
+        -1px 1px 1px #fff,
+        1px -1px 1px #fff,
+        -1px -1px 1px #fff;
+}
+
+.title-wrapper {
+    text-align: center;
+
+}
+
+.ribbon-wrapper {
+    text-align: center;
+}
+
+.title-date {
+    text-align: center;
+}
+
+.dl-button span {
+    font-weight: bold;
+    font-size: 20px;
+    /*border: 1px solid #000;*/
+    text-shadow: 1px 1px 1px #bbb,
+        -1px 1px 1px #bbb,
+        1px -1px 1px #bbb,
+        -1px -1px 1px #bbb;
+}
+
+.counter-wrapper {
+    text-align: right;
+}
+
+.counter {
+    display: inline-block;
+}
+
+/*
+.btn-info {
+    color: #fff000;
+    background-color: #5bc0de;
+    border-color: #fff000;
+}
+*/
+.title-date p {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.ribbon {
+    display: inline-block;
+    position: relative;
+    height: 45px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.ribbon:before {
+    content: '';
+    position: absolute;
+    width: 10px;
+    bottom: -27px;
+    left: -39px;
+    z-index: 0;
+    border: 27px solid #56adf3;
+    border-left-color: transparent;
+}
+
+.ribbon:after {
+    content: '';
+    position: absolute;
+    width: 10px;
+    bottom: -27px;
+    right: -39px;
+    z-index: 0;
+    border: 27px solid #56adf3;
+    border-right-color: transparent;
+}
+
+.ribbon h3 {
+    display: inline-block;
+    position: relative;
+    margin: 0;
+    padding: 8px 20px;
+    line-height: 45px;
+    color: #fff000;
+    font-size: 40px;
+    font-weight: bold;
+    background: #2196F3;
+    text-shadow: 1px 1px 1px #999,
+        -1px 1px 1px #999,
+        1px -1px 1px #999,
+        -1px -1px 1px #999;
+    z-index: 1;
+}
+
+.ribbon h3:before {
+    position: absolute;
+    content: '';
+    top: 100%;
+    left: 0;
+    border: none;
+    border-bottom: solid 10px transparent;
+    border-right: solid 15px #397eb5;
+}
+
+.ribbon h3:after {
+    position: absolute;
+    content: '';
+    top: 100%;
+    right: 0;
+    border: none;
+    border-bottom: solid 10px transparent;
+    border-left: solid 15px #397eb5;
+}
+
+.read-box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #474747;
+    background: whitesmoke;
+    border-left: double 7px #2196F3;
+    border-right: double 7px #2196F3;
+}
+
+.read-box1 p {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.reed-box {
+    margin: 2em auto;
+    padding: 0.5em;
+    /*width: 90%;*/
+    background-color: #cce4ff;
+    box-shadow: 0 0 5px 1px #ccc;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px #fff,
+        -1px 1px 1px #fff,
+        1px -1px 1px #fff,
+        -1px -1px 1px #fff;
+    letter-spacing: -1.5px;
+    font-weight: bold;
+}
+
+.ad-text {
+    font-size: 22px;
+}
+
+.bg-mask {
+    /* 背景画像の透過用css */
+    height: 100%;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.centence-title {
+    font-size: 30px;
+    margin-bottom: 30px;
+    /*border-bottom: solid 3px #00b8ee;*/
+    border-bottom: solid 3px #cce4ff;
+    position: relative;
+}
+
+.centence-title:after {
+    position: absolute;
+    content: " ";
+    display: block;
+    border-bottom: solid 3px #5472cd;
+    /*border-bottom: solid 3px #fff000;*/
+
+    bottom: -3px;
+    width: 20%;
+}
+
+.marketing .col-md-4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing .col-lg-6 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing h2 {
+    font-weight: normal;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+.merit-icon {
+    color: #2bbbce;
+    font-size: 80px;
+}
+
+
+.featurette-divider {
+    margin: 30px 0;
+    border: 0;
+}
+
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+
+.panel-heading {
+    text-align: center;
+    font-size: 24px;
+}
+
+.featurette-heading-sub {
+    margin-top: 10px;
+}
+
+.seminar-info-title {
+    font-size: 26px;
+}
+
+.seminar-info {
+    text-indent: 10px;
+    font-size: 22px;
+}
+
+.seminar-info.sub {
+    padding-left: 40px;
+}
+
+.seminar-info.sub.note{
+    font-size: 18px;
+}
+
+.seminar-info.postscript {
+    font-size: 18px;
+    text-indent: 0px;
+}
+
+.seminar-info.remarks {
+    font-size: 18px;
+}
+
+.btn-lg{
+    width: 275px;
+}
+
+.line-centence {
+    border-bottom: 1px solid black;
+}
+
+.return-top {
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+}
+
+
+.caution {
+    margin-left: 40px;
+}
+
+/* RESPONSIVE
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+    .navbar-wrapper {
+        margin-top: 20px;
+    }
+
+    .navbar-wrapper .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .navbar-wrapper .navbar {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .featurette-heading {
+        font-size: 28px;
+    }
+
+    .featurette-heading-sub {
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .main-visual h2 {
+        font-size: 20px;
+    }
+}
+
+
+.jumbotron h1 {
+    text-shadow: 1px 1px 3px #fff,
+        -1px 1px 3px #fff,
+        1px -1px 3px #fff,
+        -1px -1px 3px #fff;
+}
+
+.jumbotron p {
+    text-shadow: 1px 1px 1px #fff,
+        -1px 1px 1px #fff,
+        1px -1px 1px #fff,
+        -1px -1px 1px #fff;
+}
+
+/*boostrap-redefinition*/
+@media screen and (min-width: 768px) {
+
+    .jumbotron h1,
+    .jumbotron .h1 {
+        font-size: 48px;
+        font-weight: bold;
+        display: inline-block;
+        font-weight: bold;
+        text-shadow: 1px 1px 3px #fff,
+            -1px 1px 3px #fff,
+            1px -1px 3px #fff,
+            -1px -1px 3px #fff;
+    }
+
+
+}

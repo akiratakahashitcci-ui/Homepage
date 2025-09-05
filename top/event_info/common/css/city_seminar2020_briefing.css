@@ -1,0 +1,17 @@
+.city_seminar2020-main-visual {
+    background-image: url('../image/main-visual4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+.centence-title {
+    font-size: 26px;
+}

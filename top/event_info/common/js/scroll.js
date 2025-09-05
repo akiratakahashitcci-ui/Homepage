@@ -1,0 +1,12 @@
+(function($) {
+    "use strict";
+    $('.scroll-trigger').click(function() {
+        var target = $(this);
+        target.data('scrollparam')
+        $("html,body").animate({
+            scrollTop: $('#' + target.data('scrollparam')).offset().top - 100
+        }, {
+            queue: false
+        });
+    })
+})(jQuery);

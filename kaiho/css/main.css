@@ -1,0 +1,57 @@
+body {
+    background: #eeeeee;
+}
+
+.container {
+    background: white;
+    border-left: 1px solid #eeeeee;
+    border-right: 1px solid #eeeeee;
+    /*    height: 100vw;*/
+}
+
+.kaiho-img {
+    display: inline-block;
+    width: 100%;
+}
+
+.kaiho-wrapper {
+    margin-bottom: 20px;
+}
+
+
+.kaiho-wrapper {
+    border: 1px solid #eeeeee;
+}
+
+.number {
+    font-size: 1.5vw;
+}
+
+.MoreText {
+    text-align: center;
+    width: 50%;
+    font-size: 75%;
+    border: 1px solid;
+    padding: 1rem 0;
+    line-height: 1;
+    border-radius: 3em;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.MoreText span {
+    color: black;
+    font-size: 1vw;
+}
+
+.row.blockcontents {
+    border: 1rem solid #e4f2f8;
+}
+
+
+.blockcontents {
+    border: 1rem solid #e4f2f8;
+/*    height: 100%;*/
+    padding: 20px;
+    margin: 20px;
+}

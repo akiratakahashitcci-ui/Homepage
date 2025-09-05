@@ -1,0 +1,225 @@
+.main-visual {
+    background-image: url(../image/2207142_m.jpg);
+    background-position: center;
+}
+
+body {
+    font-family: 'Century';
+}
+
+.bg-mask {
+    background: rgba(255, 255, 255, 0.7);
+}
+
+i {
+    text-indent: 0;
+}
+
+.diagonal {
+    transform: rotate(30deg);
+    -moz-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+}
+
+ol {
+    padding-left: 85px;
+}
+
+ol li {
+    text-indent: 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.box1 {
+    font-weight: bold;
+    padding: 5px 0px;
+    margin-bottom: 5px;
+    background: #f4f4f4;
+    border-left: solid 5px #5472cd;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.33);
+}
+
+.box1 p {
+    margin: 0;
+    padding: 0;
+}
+
+
+blockquote {
+    margin-left: 20px;
+    padding: 10px 0px;
+}
+
+.boder-dotted {
+    border-bottom: dotted 3px gray;
+}
+
+.indent-50 {
+    text-indent: 50px;
+    margin-top: 7px;
+}
+
+.box2 {
+    width: 100%;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    position: relative;
+    line-height: 1.4;
+    padding: 0.25em 1em;
+    display: inline-block;
+    top: 0;
+    margin-bottom: 20px;
+    text-align: left;
+    text-indent: 1em;
+}
+
+.box2:before,
+.box2:after {
+    position: absolute;
+    top: 0;
+    content: '';
+    width: 8px;
+    height: 100%;
+    display: inline-block;
+}
+
+.box2:before {
+    border-left: solid 3px black;
+    border-top: solid 3px black;
+    border-bottom: solid 3px black;
+    left: 0;
+}
+
+.box2:after {
+    content: '';
+    border-top: solid 3px black;
+    border-right: solid 3px black;
+    border-bottom: solid 3px black;
+    right: 0;
+}
+
+.diagonal {
+    margin-right: 10px;
+}
+
+.indent-3 {
+    text-indent: 3em
+}
+
+.box3-wrapper {
+    text-align: center;
+}
+
+.box3 {
+    position: relative;
+    display: inline-block;
+    padding: 0 55px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.box3:before,
+.box3:after {
+    content: '';
+    position: absolute;
+    top: 48%;
+    display: inline-block;
+    width: 45px;
+    height: 2px;
+    background-color: black;
+}
+
+.box3:before {
+    left: 0;
+}
+
+.box3:after {
+    right: 0;
+}
+
+.box4 {
+    color: #23ABB6;
+    border-bottom: dashed 2px #23ABB6;
+    border-top: dashed 2px #23ABB6;
+    font-weight: bold;
+}
+
+.consultation-table {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.icon-wrapper {
+    text-align: center;
+    text-indent: 0;
+    font-size: 60px;
+}
+
+.th-title {
+    text-align: center;
+    font-size: 23px;
+    text-indent: 0;
+}
+
+.t-outer {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.t-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+@media (min-width: 768px) {
+    .row-eq-height {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+    }
+}
+
+
+.heading-1 {
+    position: relative;
+    display: inline-block;
+    padding: 0 65px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 26px;
+}
+
+.heading-1:before,
+.heading-1:after {
+    position: absolute;
+    top: calc(50% - 3px);
+    width: 50px;
+    height: 6px;
+    content: '';
+    border-top: solid 2px #000;
+    border-bottom: solid 2px #000;
+}
+
+.heading-1:before {
+    left: 0;
+}
+
+.heading-1:after {
+    right: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+.padding-50 {
+    padding-left: 50px;
+}

@@ -1,0 +1,295 @@
+body {
+    color: #5a5a5a;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.list-style-none {
+    list-style: none;
+    padding-left: 1em;
+}
+
+
+.main-visual {
+    background-image: url('../image/933245_m.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /*    min-height: 480px;*/
+    /*opacity: 0.1;*/
+}
+
+.bg-mask {
+    /* 背景画像の透過用css */
+    height: 100%;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.centence-title {
+    font-size: 26px;
+    margin-bottom: 16px;
+    border-bottom: solid 3px #cce4ff;
+    position: relative;
+    font-weight: bold;
+}
+
+.centence-title:after {
+    position: absolute;
+    content: " ";
+    display: block;
+    border-bottom: solid 3px #5472cd;
+    bottom: -3px;
+    width: 20%;
+}
+
+.marketing {
+    /*box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22)*/
+}
+
+.marketing .col-md-4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing .col-lg-6 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing h2 {
+    font-weight: normal;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+.merit-icon {
+    color: #2bbbce;
+    font-size: 80px;
+}
+
+
+.featurette-divider {
+    margin: 30px 0;
+    border: 0;
+}
+
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.subheading {
+    color: red;
+    padding: 1rem 2rem;
+    border-bottom: 3px solid #000;
+    background: #f4f4f4;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.small-subheading {
+    font-size: 20px;
+    border-bottom: 1px solid #000;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 9px;
+}
+
+.featurette-heading-sub {
+    margin-top: 10px;
+}
+
+.seminar-info-title {
+    font-size: 26px;
+}
+
+.contact-area {
+    background: rgb(242, 246, 245);
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.seminar-info {
+    text-indent: 22px;
+    font-size: 20px;
+}
+
+.seminar-info.postscript {
+    font-size: 18px;
+}
+
+.seminar-info.remarks {
+    font-size: 18px;
+}
+
+.panel-heading {
+    font-size: 26px;
+    background-color: rgb(255, 246, 186);
+}
+
+.panel-body {
+    font-size: 24px;
+}
+
+
+.panel-body div {
+    text-align: left;
+    font-size: 20px;
+}
+
+
+.line-centence {
+    border-bottom: 1px solid black;
+}
+
+.return-top {
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+}
+
+
+.caution {
+    margin-left: 40px;
+}
+
+/*.red-frame{
+    border: 5px solid red;
+    padding: 10px;
+    background-color: white;
+}*/
+
+
+/*.featurette-heading{
+    font-size: 20px;
+}*/
+
+/* RESPONSIVE
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+    .navbar-wrapper {
+        margin-top: 20px;
+    }
+
+    .navbar-wrapper .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .navbar-wrapper .navbar {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .featurette-heading {
+        font-size: 28px;
+    }
+
+    .featurette-heading-sub {
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .featurette-heading {
+        /*margin-top: 70px;*/
+    }
+}
+
+.jumbotron h1,
+.jumbotron .h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px #fff, -1px 1px 3px #fff, 1px -1px 3px #fff, -1px -1px 3px #fff;
+}
+
+.jumbotron h2,
+.jumbotron .h2 {
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+@media screen and (min-width: 768px) {
+
+    .jumbotron h1,
+    .jumbotron .h1 {
+        font-size: 54px;
+    }
+}
+
+.lead-sentence-title {
+    position: relative;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+.lead-sentence-title:before {
+    position: absolute;
+    bottom: -7px;
+    left: calc(50% - 30px);
+    width: 60px;
+    height: 5px;
+    content: '';
+    border-radius: 3px;
+    background: #000;
+}
+
+.lead-sentence {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.lead-sentence p {
+    text-indent: 20px;
+}
+
+.blockquote-outer {
+    padding-left: 20px;
+}
+
+.blockquote-title {
+    font-size: 20px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.fa-check {
+    margin-right: 5px;
+}
+
+.centering {
+    text-align: center;
+}
+
+.teacher-img {
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+.box {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    background: #f0f7ff;
+    border: dashed 2px #5b8bd0;
+}

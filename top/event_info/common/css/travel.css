@@ -1,0 +1,351 @@
+body {
+    color: #5a5a5a;
+    font-family: 游ゴシック体, Yu Gothic, YuGothic, ヒラギノ角ゴ Pro, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, MS Pゴシック, MS PGothic, sans-serif;
+}
+
+.main-visual {
+    background-image: url('../image/3717031_m.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-mask {
+    /* 背景画像の透過用css */
+    height: 100%;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.bg-mask .container h1 {
+    text-align: center;
+}
+
+.lead-sentence {
+    font-size: 19px;
+    margin-bottom: 14px;
+}
+
+.box1 {
+    position: relative;
+    margin: 0rem -10px;
+    padding: 1rem 2rem;
+    background: #E03950;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    box-shadow: 0 0 5px 1px #ccc;
+}
+
+.box1:before,
+.box1:after {
+    position: absolute;
+    content: '';
+}
+
+.box1:before {
+    bottom: -10px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-top: 10px solid #E03950;
+    border-left: 10px solid transparent;
+}
+
+.box1:after {
+    right: 0;
+    bottom: -10px;
+    width: 0;
+    height: 0;
+    border-top: 10px solid #E03950;
+    border-right: 10px solid transparent;
+}
+
+
+.box1-text {
+    font-weight: bold;
+    font-size: 18px;
+    background: #FFE8EB;
+    margin-bottom: 30px;
+    padding: 10px;
+    box-shadow: 0 0 5px 1px #ccc;
+}
+
+.centence-title {
+    font-size: 22px;
+    font-weight: bold;
+    border-bottom: 1px solid #d3d3d3;
+    position: relative;
+    padding-top: 5px;
+}
+
+.button-wrapper {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.link-button {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.panel-heading {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.panel-body {
+    font-size: 16px;
+    text-align: left;
+}
+
+.business-summary-title-wrapper {
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.business-summary-title {
+    position: relative;
+    background: #f4f4f4;
+    padding: 2px 5px 2px 20px;
+    font-size: 22px;
+    color: #474747;
+    border-radius: 0 10px 10px 0;
+    font-weight: bold;
+}
+
+.business-summary-title:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f128";
+    display: inline-block;
+    line-height: 40px;
+    position: absolute;
+    padding: 0em;
+    color: white;
+    background: #ff6363;
+    font-weight: 900;
+    width: 40px;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    left: -1.35em;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    border-radius: 50%;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.29);
+}
+
+.new-information-title-wrapper {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.new-information {
+    position: relative;
+    display: inline-block;
+    padding: 0 55px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.new-information:before,
+.new-information:after {
+    content: '';
+    position: absolute;
+    top: 48%;
+    display: inline-block;
+    width: 45px;
+    height: 2px;
+    background-color: black;
+}
+
+.new-information:before {
+    left: 0;
+}
+
+.new-information:after {
+    right: 0;
+}
+
+.new-information-list {
+    height: 300px;
+    overflow-y: scroll;
+}
+
+/*
+.fa-angle-double-right {
+    margin-left: 5px;
+}
+
+.btn-default {
+    width: 150px;
+}
+*/
+/*.event-name {
+    font-weight: bold;
+}
+*/
+.li-info {
+    width: 100%;
+    table-layout: fixed;
+    padding: 8px 8px 8px 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px dotted #ababab;
+}
+
+.li-info:first-child {
+    border-top: 1px dotted #ababab;
+}
+
+.li-info .info-type {
+    display: inline-block;
+    width: 115px;
+}
+
+.li-info .info-type.eat {
+    letter-spacing: 0.16em;
+}
+
+.li-info .date {
+    padding-right: 15px;
+}
+
+.link-info {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.link-info a {
+    word-break: break-all;
+}
+
+.link-title {
+    margin-bottom: 0;
+}
+
+.address {
+    text-align: center;
+}
+
+
+.marketing .col-xs-12 {
+    text-align: center;
+}
+
+.marketing .col-sm-4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.marketing .col-md-4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing .col-lg-6 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.merit-icon {
+    color: #2bbbce;
+    font-size: 80px;
+}
+
+.featurette-divider {
+    margin: 20px 0;
+    border: 0;
+}
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.featurette-heading-sub {
+    margin-top: 10px;
+}
+
+.seminar-info-title {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.seminar-info {
+    text-indent: 20px;
+    font-size: 18px;
+}
+
+.seminar-info.postscript {
+    font-size: 18px;
+}
+
+.seminar-info.remarks {
+    font-size: 18px;
+}
+
+.line-centence {
+    border-bottom: 1px solid black;
+}
+
+.return-top {
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.caution {
+    margin-left: 40px;
+}
+
+.fa-check {
+    margin-right: 5px;
+}
+
+/* RESPONSIVE
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+    .navbar-wrapper {
+        margin-top: 20px;
+    }
+
+    .navbar-wrapper .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .navbar-wrapper .navbar {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .featurette-heading {
+        font-size: 28px;
+    }
+
+    .featurette-heading-sub {
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+
+    .jumbotron h1,
+    .jumbotron .h1 {
+        font-size: 50px;
+        font-weight: bold;
+    }
+}

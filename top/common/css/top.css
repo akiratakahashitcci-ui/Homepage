@@ -1,0 +1,259 @@
+h4 {
+    margin: 0;
+
+}
+
+hr {
+    margin: 0;
+    margin-bottom: 10px;
+    border-top: 1px solid #999999;
+}
+
+/*.bunner-area-wrapper .row {
+    border-bottom: 1px solid #999999;
+}*/
+
+/*.bunner-title {}*/
+
+.bold {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+.line-img {
+    max-width: 200px;
+    height: auto;
+}
+
+.other-img {
+    max-width: 300px;
+    height: auto;
+    border: 1px solid #777;
+}
+
+.emergency-contact {
+    position: relative;
+    padding: 0.2em 0.5em;
+    background: -webkit-linear-gradient(to right, rgb(255, 124, 111), #ffc994);
+    background: linear-gradient(to right, rgb(255, 124, 111), #ffc994);
+    color: white;
+    font-weight: lighter;
+    border: 1px solid #999;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.56);
+    font-weight: bold;
+    line-height: 30px;
+    text-align: center;
+    font-size: 19px;
+    display: inline-block;
+    align-content: center;
+}
+
+.subsidy-list {
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.go-to-info {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/*goto見出し*/
+.travel-info {
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 3px 1px 0 #444;
+    color: white;
+}
+
+.eat-info {
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 3px 1px 0 #444;
+    color: white;
+}
+
+.shopping-street-info {
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 3px 1px 0 #444;
+    color: white;
+}
+
+
+.goto-bunner {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+.wrapper1 {
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.56);
+    background-image: -webkit-gradient(linear, left top, right top, from(#209cff), to(#68e0cf));
+    background-image: -webkit-linear-gradient(left, #209cff 0%, #68e0cf 100%);
+    background-image: linear-gradient(to right, #209cff 0%, #68e0cf 100%);
+}
+
+.wrapper2 {
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.56);
+    background-image: -webkit-gradient(linear, right top, left top, from(#9be15d), to(#00e3ae));
+    background-image: -webkit-linear-gradient(right, #9be15d 0%, #00e3ae 100%);
+    background-image: linear-gradient(to left, #9be15d 0%, #00e3ae 100%);
+}
+
+.wrapper3 {
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.56);
+    background-image: -webkit-gradient(linear, right top, left top, from(#F2994A), to(#F2C94C));
+    background-image: -webkit-linear-gradient(right, #F2994A 0%, #F2C94C 100%);
+    background-image: linear-gradient(to left, #F2994A 0%, #F2C94C 100%);
+}
+
+.carousel-indicators {
+    bottom: 0px;
+}
+
+/*tab*/
+
+.tab-area {
+    height: 100%;
+    width: 100%;
+    /*margin: auto;*/
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.tab_class {
+    width: calc(100%/3.001);
+    height: 45px;
+    background-color: #85AAD1;
+    font-size: 15px;
+    text-align: center;
+    display: block;
+    float: left;
+    order: -1;
+    border: 1px solid white;
+    margin: 0;
+    cursor: pointer;
+}
+
+.tab-outer {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.tab-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+input[name="tab_name"] {
+    display: none;
+}
+
+input:checked+.tab_class {
+    background-color: #01409A;
+    color: aliceblue;
+}
+
+.content_class {
+    display: none;
+    height: 100%;
+    width: 100%;
+}
+
+input:checked+.tab_class+.content_class {
+    display: block;
+}
+
+.info-list iframe {
+    height: 303px;
+}
+
+.horizontal-list {
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    padding-left: 0;
+}
+
+.horizontal-list-item {
+    display: inline-block;
+    width: 90%;
+    height: 300px;
+    width: 200px;
+    margin: 5px;
+    padding: 10px;
+    /*padding-bottom: 5px;*/
+    font-size: 12px;
+    border: 1px solid #999;
+    vertical-align: top;
+    /*cursor: pointer;*/
+}
+
+.horizontal-list-item:hover {
+    background: #FCE8E8;
+}
+
+.horizontal-list-img {
+    width: 100%;
+    height: 50%;
+    overflow: hidden;
+}
+
+.horizontal-list-img img {
+    margin: 0 auto;
+    width: 95%;
+    display: block;
+}
+
+.horizontal-list-title {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    white-space: normal;
+}
+
+.horizontal-list-text {
+    text-indent: 1em;
+    white-space: normal;
+}
+
+.horizontal-list-link {
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.line-info {
+    padding-top: 10px;
+    border-top: 1px solid #e6e6e6;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.line-info-title {
+    font-size: 18px;
+    background: linear-gradient(transparent 70%, #40bd62 70%);
+}
+
+.top-bunner-wrapper {
+    text-align: center;
+}
+
+.top-bunner {
+    width: 100%;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.comment {
+    color: red;
+    border-bottom: 1px solid #000;
+}
+

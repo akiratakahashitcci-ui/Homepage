@@ -1,0 +1,350 @@
+body {
+    color: #5a5a5a;
+    background-color: #C4DFB4;
+}
+
+ol li {
+    text-indent: 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.list-style-none {
+    list-style: none;
+    padding-left: 1em;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+
+.main-visual {
+    background-image: url('../image/4672613_m.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-mask {
+    /* 背景画像の透過用css */
+    height: 100%;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.centence-title {
+    font-size: 26px;
+    margin-bottom: 16px;
+    border-bottom: solid 3px #A8D18D;
+    position: relative;
+    font-weight: bold;
+}
+
+.centence-title:after {
+    position: absolute;
+    content: " ";
+    display: block;
+    border-bottom: solid 3px #106E34;
+    bottom: -3px;
+    width: 20%;
+}
+
+
+.featurette-divider {
+    margin: 30px 0;
+    border: 0;
+}
+
+
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.subheading {
+    color: red;
+    padding: 1rem 2rem;
+    border-bottom: 3px solid #000;
+    background: #f4f4f4;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.small-subheading {
+    font-size: 22px;
+    border-bottom: 1px solid #000;
+    /*F8CABB*/
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 9px;
+}
+
+.featurette-heading-sub {
+    margin-top: 10px;
+}
+
+.seminar-info-title {
+    font-size: 26px;
+}
+
+.contact-area {
+    background: rgb(242, 246, 245);
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.seminar-info {
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.seminar-info.postscript {
+    font-size: 18px;
+}
+
+.remarks {
+    font-size: 18px;
+}
+
+.line-centence {
+    border-bottom: 1px solid black;
+}
+
+.return-top {
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+}
+
+
+/* RESPONSIVE
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+    .navbar-wrapper {
+        margin-top: 20px;
+    }
+
+    .navbar-wrapper .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .navbar-wrapper .navbar {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .featurette-heading {
+        font-size: 28px;
+    }
+
+    .featurette-heading-sub {
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .featurette-heading {
+        /*margin-top: 70px;*/
+    }
+}
+
+.jumbotron h1,
+.jumbotron .h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px #fff, -1px 1px 3px #fff, 1px -1px 3px #fff, -1px -1px 3px #fff;
+}
+
+.jumbotron h2,
+.jumbotron .h2 {
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+@media screen and (min-width: 768px) {
+
+    .jumbotron h1,
+    .jumbotron .h1 {
+        font-size: 54px;
+    }
+}
+
+.lead-sentence-title {
+    position: relative;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+.lead-sentence-title:before {
+    position: absolute;
+    bottom: -7px;
+    left: calc(50% - 30px);
+    width: 60px;
+    height: 5px;
+    content: '';
+    border-radius: 3px;
+    background: #106E34;
+}
+
+.lead-sentence {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.lead-sentence p {
+    text-indent: 20px;
+}
+
+p.sentence {
+    text-indent: 20px;
+    margin: 0;
+}
+
+.marker {
+    background: linear-gradient(transparent 70%, #c1e0ff 70%);
+    font-weight: bold;
+}
+
+.marker2 {
+    background: linear-gradient(transparent 70%, yellow 70%);
+    font-weight: bold;
+}
+
+.teacher-img {
+    width: 200px;
+    height: 230px;
+}
+
+.tv-img {
+    display: inline-block;
+    width: 100%;
+}
+
+.t-padding {
+    padding-top: 00px;
+}
+
+.border {
+    border-bottom: 1px solid #000;
+}
+
+.centering {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.main-content {
+    /*    width: 980px;*/
+    /* height: 100vh; */
+    margin: 0 auto;
+    padding: 40px 15px;
+    background-color: #fff;
+    border-right: 1px solid #e5e5e5;
+    border-left: 1px solid #e5e5e5;
+}
+
+.cp_qa *,
+.cp_qa *:after,
+.cp_qa *:before {
+    font-family: 'FontAwesome', sans-serif;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.cp_qa dt,
+.cp_qa dd {
+    position: relative;
+    padding: 0.5em;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0.3em;
+}
+
+.cp_qa dt {
+    margin: 0 3em 1em 3em;
+    background: #ffe0b2;
+}
+
+.cp_qa dd {
+    margin: 0 3em 3em 3em;
+    background: #b2ebf2;
+}
+
+/* 吹き出し▶︎ */
+.cp_qa dt::before,
+.cp_qa dd::before {
+    position: absolute;
+    z-index: 99;
+    top: 0.5em;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    content: '';
+    border-style: solid;
+}
+
+/* 質問吹き出し▶︎ */
+.cp_qa dt::before {
+    left: -0.5em;
+    border-width: 5px 8.7px 5px 0;
+    border-color: transparent #ffe0b2 transparent transparent;
+}
+
+/* 答え吹き出し▶︎ */
+.cp_qa dd::before {
+    right: -0.5em;
+    border-width: 5px 0 5px 8.7px;
+    border-color: transparent transparent transparent #b2ebf2;
+}
+
+/* ?!アイコン */
+.cp_qa dt::after,
+.cp_qa dd::after {
+    font-size: 1.2em;
+    position: absolute;
+    top: 0;
+    color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1.2em;
+}
+
+/* ?アイコン */
+.cp_qa dt::after {
+    left: -2.5em;
+    margin: 0 0.5em 0 0;
+    padding: 0.2em 0.4em;
+    content: '\f128';
+    background: #f57c00;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+}
+
+/* !アイコン */
+.cp_qa dd::after {
+    right: -2.5em;
+    margin: 0 0 0 0.5em;
+    padding: 0.2em 0.55em;
+    content: '\f12a';
+    background: #0097a7;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+}

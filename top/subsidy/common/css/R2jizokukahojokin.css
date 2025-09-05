@@ -1,0 +1,29 @@
+.centence-title {
+    margin-bottom: 10px;
+}
+
+.button-wrapper {
+    text-align: center;
+}
+
+.link-button {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.fa-external-link-square-alt {
+    margin-right: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.box {
+    margin-top: 30px;
+}
+
+.padding-30-l {
+    padding-left: 30px;
+}

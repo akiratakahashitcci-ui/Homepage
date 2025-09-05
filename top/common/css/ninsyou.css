@@ -1,0 +1,28 @@
+    a.btn-radius-solid {
+        color: black;
+        background: #3f8aff;
+        background: -webkit-gradient(linear, left top, left bottom, from(#3f8aff), to(#82b1ff));
+        background: -webkit-linear-gradient(top, #3f8aff 0%, #82b1ff 100%);
+        background: linear-gradient(to bottom, #3f8aff 0%, #82b1ff 100%);
+        height: 40px;
+        line-height: 25px;
+        font-weight: bold;
+        text-shadow: 1px 1px 1px #fff;
+    }
+
+    a.btn-radius-solid:hover {
+        background: -webkit-gradient(linear, left bottom, left top, from(#3f8aff), to(#82b1ff));
+        background: -webkit-linear-gradient(bottom, #3f8aff 0%, #82b1ff 100%);
+        background: linear-gradient(to top, #3f8aff 0%, #82b1ff 100%);
+    }
+
+    .button-area-padding {
+        padding: 20px;
+    }
+
+    .button-area-subhead {
+        font-weight: bold;
+        font-size: 20px;
+        border-bottom: solid 2px gray;
+        margin-bottom: 20px;
+    }

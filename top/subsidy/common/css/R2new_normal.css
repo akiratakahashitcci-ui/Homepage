@@ -1,0 +1,63 @@
+.centence-title {
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+.box2 {
+    padding: 0.5em 1em;
+    margin: 1em 0;
+    background: #cce4ff;
+    border: dashed 2px #5472cd;
+}
+
+.box2 p {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p.box-title {
+    border-bottom: 1px solid #000;
+    font-size: 23px;
+    text-indent: 0;
+    color: red;
+}
+
+.box .fa-file-word {
+    font-size: 28px;
+}
+
+.accents {
+    font-size: 23px;
+}
+
+.main-text p:first-child {
+    text-indent: 1em
+}
+
+.jumbotron h2 {
+    text-shadow: 1px 1px 3px #fff,
+        -1px 1px 3px #fff,
+        1px -1px 3px #fff,
+        -1px -1px 3px #fff;
+    font-size: 21px;
+}
+
+/*boostrap-redefinition*/
+@media screen and (min-width: 768px) {
+
+    .jumbotron h2,
+    .jumbotron .h2 {
+        font-size: 30px;
+        font-weight: bold;
+        display: inline-block;
+        font-weight: bold;
+        text-shadow: 1px 1px 3px #fff,
+            -1px 1px 3px #fff,
+            1px -1px 3px #fff,
+            -1px -1px 3px #fff;
+    }
+
+
+}

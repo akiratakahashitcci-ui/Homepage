@@ -1,0 +1,32 @@
+.main-visual {
+    background-image: url(../image/29228987_m.jpg);
+    background-position: center;
+}
+
+.main-text {
+    text-align: center;
+}
+
+.commentary {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.border {
+    border-bottom: 1px solid #000;
+
+}
+
+.s-title {
+    text-indent: 0;
+    margin-top: 10px;
+}
+
+
+.fa-file-word {
+    font-size: 28px;
+}
+
+.note {
+    font-size: 20px;
+}

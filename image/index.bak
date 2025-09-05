@@ -1,0 +1,467 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>敦賀商工会議所</TITLE>
+<!---------------------------------------->
+<!--　　　　　敦賀商工会議所　　　　　　-->
+<!--　　 敦賀商工会議所ホームページ 　　-->
+<!--　　 管理責任者　敦賀商工会議所 　　-->
+<!--　　　　　主任経営指導員　新谷保紀  -->
+<!--　　　　 E-Mail sintani@turuga.or.jp-->
+<!---------------------------------------->
+<META name="description" content="敦賀商工会議所のホームページです。敦賀商工会議所が開催する講習会・セミナー・経営情報のほか、敦賀市の観光・イベント情報を掲載。">
+<META name="keywords" content="福井,敦賀,敦賀商工会議所,嶺南,若狭,越前,経済団体,経営,中小企業,金融,観光,イベント,取引,中小企業,松本零士,松本,零士,銀河鉄道999,銀河鉄道,999,宇宙戦艦ヤマト,宇宙船艦,ヤマト,モニュメント,アニメ,銀河,街づくり,TMO
+,tmo,Tmo,商店街,活性化,オンライン,オンラインマーク">
+<META name="GENERATOR" content="IBM WebSphere Homepage Builder V6.0.1 for Windows">
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META http-equiv="Content-Style-Type" content="text/css">
+<STYLE type="text/css">
+<!--
+A:HOVER{
+  font-size : 3mm;
+  color : gray;
+}
+BODY{
+  font-size : 3mm;
+}
+A{
+  font-size : 3mm;
+  text-decoration : none;
+}
+TD{
+  font-size : 3mm;
+}
+FONT{
+  font-size : 3mm;
+}
+I{
+  font-size : 8mm;
+}
+-->
+</STYLE>
+<script language="javascript">
+<!-----------------------------------
+var spd  = 200; //この数字を変更すると、スクロールのスピードが変わります。
+
+var m1= "敦賀商工会議所ホームページへようこそ!!";
+var m2= "　　";
+var m3= "　　";
+var m4= "　　";
+var m5= "　　";
+var m6= "　　";
+
+var msg=m1+m2+m3+m4+m5+m6;
+var msg=msg+msg;
+
+function scro() {
+     msg=msg.substring(2,msg.length)+msg.substring(0,2);
+     window.status = msg;
+     setTimeout("scro()",spd); 
+        }
+function open_win(){
+    myWin = window.open("/i/index.html","newwin","height=550,width=200,toolbar=no,lacation=no,directories=no,scrollbars=yes");
+}
+//----------------------------------->
+</script><SCRIPT language="JavaScript">
+<!--HPB_SCRIPT_ROV_50
+//
+//  Licensed Materials - Property of IBM
+//  11P5743
+//  (C) Copyright IBM Corp. 1998, 2000 All Rights Reserved.
+//
+
+// HpbImgPreload:
+//
+function HpbImgPreload()
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=(document.layers && (appVer >= 4));
+  var isIE=(document.all    && (appVer >= 4));
+  if (isNC || isIE)
+  {
+    if (document.images)
+    {
+      var imgName = HpbImgPreload.arguments[0];
+      var cnt;
+      swImg[imgName] = new Array;
+      for (cnt = 1; cnt < HpbImgPreload.arguments.length; cnt++)
+      {
+        swImg[imgName][HpbImgPreload.arguments[cnt]] = new Image();
+        swImg[imgName][HpbImgPreload.arguments[cnt]].src = HpbImgPreload.arguments[cnt];
+      }
+    }
+  }
+}
+// HpbImgFind:
+//
+function HpbImgFind(doc, imgName)
+{
+  for (var i=0; i < doc.layers.length; i++)
+  {
+    var img = doc.layers[i].document.images[imgName];
+    if (!img) img = HpbImgFind(doc.layers[i], imgName);
+    if (img) return img;
+  }
+  return null;
+}
+// HpbImgSwap:
+//
+function HpbImgSwap(imgName, imgSrc)
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=(document.layers && (appVer >= 4));
+  var isIE=(document.all    && (appVer >= 4));
+  if (isNC || isIE)
+  {
+    if (document.images)
+    {
+      var img = document.images[imgName];
+      if (!img) img = HpbImgFind(document, imgName);
+      if (img) img.src = imgSrc;
+    }
+  }
+}
+var swImg; swImg=new Array;
+//-->
+</SCRIPT><SCRIPT language="JavaScript">
+<!--HPB_SCRIPT_PLD_50
+HpbImgPreload('_HPB_ROLLOVER2', 'image/sien.gif', 'image/sien2.gif');
+HpbImgPreload('_HPB_ROLLOVER1', 'image/gaikei1.gif', 'image/gaikei2.gif');
+//-->
+</SCRIPT></HEAD>
+<BODY onload="scro()" bgcolor="#ffffcc" link="#0000ff" vlink="#0000ff">
+<CENTER>
+<TABLE width="747">
+  <CAPTION><IMG src="image/a021lin.gif" width="741" height="29" border="0"></CAPTION>
+  <TBODY>
+    <TR>
+      <TD valign="top" align="right" bgcolor="#b4f3fc" width="362" background="image/aki24.jpg"><IMG src="image/hitomati" border="0" width="219" height="26"><IMG src="image/tsurugasyoukou" border="0" width="230" height="44"><BR>
+      <IMG src="image/@@@image.gif" width="339" height="11" border="0"></TD>
+      <TD valign="top" align="center" width="372">
+      <TABLE width="369" cellpadding="0" cellspacing="0">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff00ff" colspan="2" valign="middle" height="33" align="center"><IMG src="image/spacer.gif" width="1" height="12" border="0"><IMG src="image/images1.gif" width="149" height="20" border="0" align="middle"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ff00ff" height="66" width="31"><IMG src="image/spacer.gif" width="29" height="79" border="0"></TD>
+            <TD align="left" bgcolor="#ffffff" height="66" valign="top" width="332"><FONT size="-1"><FONT size="2"><FONT size="-1"><FONT size="2"><FONT size="-2"><IMG src="image/p_lis016.gif" width="12" height="12" border="0"> <A href="http://www.tsuruga.or.jp/kakuteikyosyutu/kakuteikyo.html">確定拠出年金制度説明会（１１月２０日）を開催</A> <IMG src="image/newc001.gif" width="33" height="10" border="0"><BR>
+            <IMG src="image/p_lis016.gif" width="13" height="12" border="0"><A href="ItManager/ITmanager.html"> 新認定資格！ＩＴマネージャー養成講座を開設</A><IMG src="image/newc001.gif" width="33" height="10" border="0"><BR>
+            <IMG src="image/p_lis016.gif" width="13" height="12" border="0"><A href="nennmatsu/kinkyukeiei.html#keieiantei">経営安定セミナー</A><IMG src="image/newc001.gif" width="33" height="10" border="0"><BR>
+            <IMG src="image/p_lis016.gif" width="12" height="12" border="0"> <A href="nennmatsu/kinkyukeiei.html">緊急経営特別相談室開設してます</A><IMG src="image/newc001.gif" width="33" height="10" border="0"></FONT><FONT size="-1"><FONT size="2"><FONT size="-1"><FONT size="2"><FONT size="-1"><FONT size="2"><A href="http://www.tsuruga.or.jp/juugyou/ninomiya.html"><FONT size="-1">　</FONT></A></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT><BR>
+            </FONT></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TD width="485" height="34">
+      <P align="center"><A href="http://www.jcci.or.jp/nissyo/iken/gaikei/gaikei.html" id="_HPB_ROLLOVER1" onmouseout="HpbImgSwap('_HPB_ROLLOVER1', 'image/gaikei1.gif');" onmouseover="HpbImgSwap('_HPB_ROLLOVER1', 'image/gaikei2.gif');" target="_blank"><IMG src="image/gaikei1.gif" width="626" height="20" border="0" name="_HPB_ROLLOVER1"></A></P>
+      </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<CENTER><IMG src="image/b004lin.gif" width="747" height="7" border="0"></CENTER>
+<DIV align="center">
+<TABLE width="747">
+  <TBODY>
+    <TR>
+      <TD align="center" width="152"><FONT size="2"><A href="http://www.b-mall.ne.jp/" target="_blank"><IMG src="image/b-mallbanner.gif" width="138" height="56" border="0"><BR>
+      日本最大のBtoB市場</A></FONT></TD>
+      <TD align="center" width="154"><FONT size="2"><A href="http://waiwai.yy-tsuruga.com/" target="_blank"><IMG src="image/banner1.gif" width="139" height="56" border="0"><BR>
+      ネットでショッピング</A></FONT></TD>
+      <TD align="center" width="150"><FONT size="2"><A href="http://www.tsuruga.or.jp/tyeg/index.html" target="_self"><IMG src="image/tyegbanner.gif" width="137" height="54" border="0"><BR>
+      青年部のページ</A></FONT></TD>
+      <TD width="175"><A href="ItManager/ITmanager.html"><IMG src="image/logo2.gif" width="161" height="51" border="0"></A><BR>
+      <A href="ItManager/ITmanager.html">1１月１日（金）からスタート！</A></TD>
+      <TD align="center" width="468"><FONT size="2"><A href="http://www.tsuruga.or.jp/risc/local.html" target="_self"><IMG src="image/ani001.gif" width="139" height="56" border="0"><BR>
+      中小企業支援センター</A></FONT></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<IMG src="image/b004lin.gif" width="747" height="7" border="0"><BR>
+<BR>
+<TABLE width="843" cellspacing="2" border="0">
+  <COL span="3" width="33%">
+  <TBODY>
+    <TR>
+      <TD></TD>
+      <TD width="288"></TD>
+      <TD align="center" width="249">　　　　　　<FONT size="-1">最終更新履歴　2002．11．12　17：00</FONT></TD>
+    </TR>
+    <TR>
+      <TD valign="top">
+      <TABLE width="100%" height="25">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30" align="left"><IMG src="jigyou" border="0" width="162" height="30"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT size="-1"><FONT size="2"><FONT size="-1"><FONT size="2"><FONT size="-1"><IMG src="image/p_lis016.gif" width="12" height="12" border="0"><FONT size="2"><A href="http://www.tsuruga.or.jp/juugyou/jissinituite.doc"><FONT size="-1"> 平成１４年度　優良従業員表彰の開催について</FONT></A></FONT><BR>
+      <IMG src="image/p_lis016.gif" width="12" height="12" border="0"> <A href="http://www.tsuruga.or.jp/juugyou/suisennsyo.doc">平成１４年度　優良従業員表彰の推薦書用紙について</A></FONT></FONT></FONT></FONT></FONT><BR>
+      <FONT size="-1"><FONT size="2"><FONT size="-1"><FONT size="2"><IMG src="image/p_lis016.gif" width="12" height="12" border="0"><FONT size="-1"><FONT size="2"><FONT size="-1"><FONT size="2"><A href="http://www.tsuruga.or.jp/juugyou/ninomiya.html"><FONT size="-1"> 記念講演会の開催<BR>
+      　　スポーツジャーナリスト　二宮　清純 氏　を迎えて</FONT></A></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT><BR>
+      <BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><FONT size="-1" face="ＭＳ Ｐゴシック"><A href="http://www.tsuruga.or.jp/tcci/14kaitounew.html">平成１４年度　敦賀商工会議所　重点事業</A><B><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"></B><A href="tcci/bukaijuu.html" target="_top">平成１４年度　部会重点事業計画</A><B><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"></B><A href="http://www.tsuruga.or.jp/woman/woman.html" target="_self">女性経営者の会</A><B><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"></B><A href="ene/energyindex.html" target="_self">エネルギ-産業起業化研究会</A><B><BR>
+      </B><A href="http://www.tsuruga.or.jp/purojekuto/purojekutotop.htm"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">大型プロジェクト関連企業協議会</A><BR>
+      <A href="kaigai/index.html" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">海外ビジネス振興会</A>（会員専用ＨＰも併設）<BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="wel/fare.html">福祉事業研究会</A><BR>
+      <A href="kodhi/kodhi.htm" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">技術コーディネーターを派遣します。</A><BR>
+      </FONT><FONT size="2"><FONT size="-1"><FONT size="2"><FONT size="-1"><FONT size="2"><FONT size="-1"><A href="ene/koubo14.html"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">日本原子力発電㈱研究公募に応募しませんか？</A></FONT></FONT></FONT></FONT></FONT><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><FONT size="-1"><A href="ene/energyindex.html" target="_top">ネクストビジネスアクセラレーターを設置</A></FONT><BR>
+      </FONT>
+      <TABLE width="100%" height="25">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30"><IMG src="kanren" border="0" width="133" height="34"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT size="2"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><FONT size="2"><A href="tcci/cci.html">敦商工会議所概要（組織／沿革）</A></FONT><BR>
+      <FONT face="ＭＳ Ｐゴシック"><A href="http://www.tsuruga.or.jp/kaiin/kaiin.html" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">新部会の案内（会員数／属性）</A></FONT> <BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"></FONT><A href="nyuukai/nyukai-info.html"><FONT size="-1">会員入会のご案内</FONT></A><BR>
+      <FONT size="2"><FONT face="ＭＳ Ｐゴシック"><A href="tcci/kanko.html" target="_blank"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">敦賀市の観光</A></FONT></FONT><BR>
+      <FONT size="2"><FONT face="ＭＳ Ｐゴシック"><A href="tcci/event.html" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">イベント案内</A></FONT></FONT><BR>
+      <FONT size="2"><FONT face="ＭＳ Ｐゴシック"><A href="http://www.tsuruga.or.jp/kaiin/kaiin.html" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"></A><A href="http://www.tsuruga.or.jp/tcci/acc.html"><FONT size="2"><FONT face="ＭＳ Ｐゴシック">アクセスマップ</FONT></FONT></A></FONT></FONT><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="tcci/accessmapcci.htm">商工会議所へのアクセス</A><BR>
+      <FONT size="2"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><FONT size="-1" face="ＭＳ Ｐゴシック"><A href="http://www.tsuruga.or.jp/meikan/meikan.html">2002敦賀商工名鑑を発刊!!</A></FONT><BR>
+      </FONT>
+      <TABLE width="100%" height="25">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30"><IMG src="kaikan" border="0" width="207" height="32"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.kentei.ne.jp/">商工会議所検定事業のご案内</A><FONT size="-1"><A href="http://www.tsuruga.or.jp/kentei/14kenteinittei" target="_top"> <IMG src="image/newc001.gif" width="33" height="10" border="0"><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0">敦賀商工会議所　検定試験のご案内</A></FONT><B><FONT size="-1"><BR>
+      </FONT></B><FONT size="-1"><A href="kentei/goukaku.html" target="_top"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">合格発表</A></FONT><B><FONT size="-1"><IMG src="image/newc001.gif" width="33" height="10" border="0"><BR>
+      </FONT></B><FONT size="-1"><A href="kentei/fukusi/sikensemina.html" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">試験対策セミナー開催中！！</A></FONT><IMG src="image/update.gif" width="35" height="14" border="0"><BR>
+      <FONT size="-1"><A href="kentei/mousikomi.html" target="_top"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">お申込方法</A><BR>
+      </FONT><FONT size="2"><FONT size="-1"><FONT size="2"><BR>
+      </FONT></FONT></FONT>
+      <TABLE width="100%" height="25">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30"><IMG src="mati" border="0" width="123" height="32"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT size="2"><FONT size="1"><FONT size="2"><B><IMG src="image/p_lis019.gif" width="12" height="12" border="0"></B></FONT></FONT><FONT size="2"><FONT size="2"><A href="http://www.tsuruga.or.jp/town/town.htm"><FONT size="-1">当所まちづくり総合案内サイト</FONT></A></FONT><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.jcci.or.jp/machi/m-index.html">商工会議所　街づくり情報ナビゲーター</A> </FONT><BR>
+      </FONT>
+      <TABLE>
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30" width="296"><IMG src="kaikan" border="0" width="215" height="34"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT size="2">
+      <A href="http://www.tsuruga.or.jp/kashikan/kasikan.htm" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"></A><A href="http://www.tsuruga.or.jp/kashikan/kasikan.htm" target="_self"><FONT size="-1">貸室のご案内<BR>
+      <BR>
+      </FONT></A></FONT><BR>
+      </TD>
+      <TD valign="top" width="288">
+      <TABLE height="25">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30" width="232"><IMG src="image/keiei" border="0" width="125" height="32"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <TABLE>
+        <TBODY>
+          <TR>
+            <TD align="center" width="234"><A href="http://www2.tsuruga.or.jp/formmail/form.html" target="_blank"><IMG src="image/dennsi.gif" width="155" height="24" border="0"></A></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <TABLE>
+        <TBODY>
+          <TR>
+            <TD bgcolor="#006666" width="231"><FONT color="#ffffff" size="-1">●経営全般</FONT></TD>
+          </TR>
+          <TR>
+            <TD width="231"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><FONT size="-1"><A href="round/round.html" target="_self">中小企業相談所の経営相談</A></FONT><IMG src="image/update.gif" width="35" height="14" border="0"></TD>
+          </TR>
+          <TR>
+            <TD width="231"><FONT size="2"><A href="http://www2.tsuruga.or.jp/formmail/form.html" target="_self"><FONT size="-1"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">電子商工相談窓口開設</FONT></A></FONT></TD>
+          </TR>
+          <TR>
+            <TD><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="round/round.html"><FONT size="-1">経営指導員が巡回訪問しております！</FONT></A></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#006666" width="231"><FONT color="#ffffff" size="-1">●資 金</FONT></TD>
+          </TR>
+          <TR>
+            <TD width="231"><FONT size="2"><B><A href="keiei/marukei/marukei.html"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"></A></B></FONT><A href="http://www.tsuruga.or.jp/keiei/marukei/marukei.html" target="_self"><FONT size="-1"><FONT size="-1">マル経という名の融資</FONT></FONT></A></TD>
+          </TR>
+          <TR>
+            <TD width="231"><FONT size="2"><A href="keiei/interest.html" target="_self"><FONT size="-1"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">国・県の融資制度金利情報</FONT></A></FONT></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#006666" width="231"><FONT color="#ffffff" size="-1">●研究開発・補助金情報・受注関連</FONT></TD>
+          </TR>
+          <TR>
+            <TD width="231"><FONT size="2"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="ene/sinjigyou.htm">新事業開拓助成金事業の募集</A><BR>
+            <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="SBIR/SBIRinfo.html" target="_top">中小企業技術革新制度（ＳＢＩＲ）</A></FONT><BR>
+            <FONT size="-1"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.tsuruga.or.jp/kodhi/kodhi.htm">技術コーディネーターの巡回指導</A></FONT></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#006666" width="231"><FONT color="#ffffff" size="-1">●取引・その他</FONT></TD>
+          </TR>
+          <TR>
+            <TD width="231"><FONT size="2"><B><A href="http://www.b-mall.ne.jp" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"></A></B></FONT><A href="http://www2.b-mall.ne.jp/BM/01_TopPage/01_TopPage.asp" target="_blank"><FONT size="-1"><FONT size="-1">ザ･ビジネスモール</FONT></FONT><FONT size="2">（BtoB取引市場）</FONT></A></TD>
+          </TR>
+          <TR>
+            <TD width="231"><FONT size="2"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.jcci.or.jp/nissyo/publication/news.html" target="_blank">会議所ニュース</A></FONT></TD>
+          </TR>
+          <TR>
+            <TD><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><FONT size="-1"><A href="youkihousou/youkihousou.html" target="_self">容器包装リサイクル法＜重要＞</A></FONT></TD>
+          </TR>
+          <TR>
+            <TD><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.kaigisho.ne.jp/" target="_blank">Chamber Web全国 ﾋﾞｼﾞﾈｽﾎﾟｰﾀﾙｻｲﾄ</A></TD>
+          </TR>
+          <TR>
+            <TD><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.tsuruga.or.jp/plhoken/plhoken.html">製造物責任法（ＰＬ保険制度）</A> </TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <BR>
+      <TABLE width="100%" height="25">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30"><IMG src="fukuri" border="0" width="182" height="32"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT size="-1">
+      <A href="http://www.tsuruga.or.jp/rouho-koyou" target="_self"><B><IMG src="image/p_lis019.gif" width="12" height="12" border="0"></B></A><A href="kyosai/kyousai.html" target="_self">共済制度のご案内</A><BR>
+      <A href="http://www2.axa.co.jp/" target="_blank"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">アクサ生命保険㈱</A>(商工会議所共済制度）<BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.tsuruga.or.jp/rouho-koyou/" target="_self">労働保険</A></FONT><BR>
+      <BR>
+      <TABLE width="100%" height="25">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30"><IMG src="link" border="0" width="78" height="33"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT size="-1"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.tsuruga.or.jp/tcci/link.html" target="_self"><FONT size="-1">会員ＨＰリンク集 </FONT></A> <IMG src="image/update.gif" width="35" height="14" border="0"><BR>
+      <A href="tcci/link.html#kanren" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">関連リンク</A><BR>
+      <A href="mailto:kaiin@tsuruga.or.jp?Subject=リンクの申込み" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">リンクのお申込み</A><BR>
+      <A href="http://www.tsuruga.or.jp/tyeg/index.html" target="_blank"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">青年部のページ</A><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.cin.or.jp/" target="_blank">「CIN」全国の商工会議所が皆様にお届けする生活関連情報、経済情報サービス</A></FONT></TD>
+      <TD valign="top" width="249">
+      <TABLE height="25">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30" width="241"><IMG src="jouhouka" border="0" width="153" height="33"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT size="-1"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><FONT size="2"><FONT size="-2"><A href="pasokon/paso2.html">第２弾　パソコン教室のご案内</A></FONT></FONT><IMG src="image/update.gif" width="35" height="14" border="0"><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.tsuruga.or.jp/itsien/index.html" target="_self">IT活用支援プログラムのご案内</A><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www2.tsuruga.or.jp/formmail/form.html" target="_self"><FONT size="2">電子商工相談窓口開設</FONT></A><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="hpsaku2/index.html" target="_self">ホームページ作成代行サービス</A><BR>
+      <FONT size="2"><A href="http://www.yy-tsuruga.com/" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">わいわい敦賀.com<BR>
+      </A><FONT size="-1"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><FONT size="2"><FONT size="-1"><FONT size="2"><FONT size="-1"><A href="http://www.tsuruga.or.jp/i/index.html">『生きた就職情報』をⅰモードで発信中</A><BR>
+      </FONT></FONT></FONT></FONT></FONT></FONT><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.jcci.or.jp/machi/vmall.html">全国各地の仮想商店街</A> <BR>
+      <A href="Caution/virus.html"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"></A><I><A href="Caution/virus.html"><FONT size="-1" color="#ff0033">コンピュータウィルス被害急増中!!</FONT></A></I><IMG src="image/update.gif" width="35" height="14" border="0"><BR>
+      </FONT>
+      <TABLE>
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30" width="239"><IMG src="image/ninsyou" border="0" width="190" height="30"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT size="-1"><A href="o_mark/index.html" target="_self"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">オンラインマーク地域センター（当所）</A><BR>
+            <IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://mark.cin.or.jp/" target="_blank">オンラインマーク総合センター（日商）</A></FONT>
+      <HR width="250" size="7" align="left">
+      <FONT size="1">
+      <FONT size="1"><FONT color="#0000ff" size="2"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">敦賀商工会議所 i-modeのページを開設しました。</FONT><BR>
+      </FONT>
+      </FONT>
+      <TABLE>
+        <TBODY>
+          <TR>
+            <TD width="213" align="left" nowrap><INPUT type="button" value="TCCI i-mode HP" onClick="open_win()"><BR>
+            <BR>
+            <A href="http://www2.tsuruga.or.jp/imode/imode_url.html" target="_blank"><IMG src="image/imode.gif" width="22" height="24" border="0" align="middle"></A><FONT color="#0000ff" size="2"><A href="http://www2.tsuruga.or.jp/imode/imode_url.html">URL： http://www.tsuruga.or.jp/i/</A></FONT><BR>
+            </TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT size="+1"><U><FONT color="#0000ff" size="5"><A href="http://www2.tsuruga.or.jp/imode/imode_url.html" target="_blank"><I><B><FONT size="4" color="#ff3333">ここ</FONT></B></I></A></FONT></U></FONT><FONT size="1"><FONT size="1"><FONT color="#0000ff" size="2">をクリックして、メールアドレスを入力して送信して下さい。</FONT></FONT><BR>
+      <A href="http://www.tsuruga.or.jp/i/">敦賀商工会議所 i-modeのページへ</A><FONT size="2"><BR>
+      <BR>
+      </FONT></FONT>
+      <TABLE height="25">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ff6600" height="30" width="243"><IMG src="image/tyousa" border="0" width="219" height="28"></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT size="1"><A href="keiki/index.html" target="_self"><FONT size="-1"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"></FONT></A></FONT><FONT size="-1"><FONT size="-1"><A href="15keiki/index.html" target="_self"><FONT size="-1">第15回敦賀市内景気動向観測等調査結果の 報告（平成13年10月実施）</FONT></A></FONT><A href="keiki/index.html" target="_self"><FONT size="-1"><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0">第14回敦賀市内景気動向観測等調査結果の報告（平成13年6月実施）</FONT><BR>
+      <IMG src="image/p_lis019.gif" width="12" height="12" border="0"></A><FONT size="2"><A href="http://www.jcci.or.jp/lobo/lobo.html" target="_blank">ＬＯＢＯ(早期景気観測）調査</A></FONT><BR>
+      <FONT size="-1"><A href="pcr/pcr-index.html"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">第2回パソコン・インターネット利用状況調査結果報告</A></FONT><FONT size="-1" color="#0000ff">（平成13年5月実施）</FONT><BR>
+      <FONT size="-1"><IMG src="image/p_lis019.gif" width="12" height="12" border="0"><A href="http://www.cin.or.jp/needs/" target="_blank">日商人材ニーズ調査</A></FONT><BR>
+      <FONT size="2"><A href="tcci/data.html" target="_blank"><FONT size="-1"><IMG src="image/p_lis019.gif" width="12" height="12" border="0">敦賀市産業データ</FONT></A><BR>
+      </FONT></FONT><FONT size="1"><BR>
+      </FONT></TD>
+    </TR>
+    <TR>
+      <TD></TD>
+      <TD width="288"></TD>
+      <TD width="249"></TD>
+    </TR>
+    <TR>
+      <TD></TD>
+      <TD width="288"></TD>
+      <TD width="249"></TD>
+    </TR>
+    <TR>
+      <TD colspan="3">
+      <HR>
+      </TD>
+    </TR>
+    <TR>
+      <TD height="116" bgcolor="#0000ff" valign="middle"><FONT face="HGPｺﾞｼｯｸM" color="#ffffff" size="-1">　ご意見、ご要望は･･･<BR>
+      　　敦賀商工会議所<BR>
+      　　914-0063 敦賀市神楽町2丁目1番4号<BR>
+      　　TEL(0770)22-2611 FAX(0770)24-1311<BR>
+      　　E-MAIL　</FONT><FONT color="#ffccff" size="-1"><A href="mailto:staff@tsuruga.or.jp"><FONT 
+color=#ffffff>staff@tsuruga.or.jp</FONT></A></FONT></TD>
+      <TD height="116" valign="top" bgcolor="#0000ff" width="288"><A href="http://www.infomart.or.jp/ccis/"><IMG src="image/title-s2.gif" width="128" height="39" border="0" vspace="1" alt="日本国内商工会議所ホームページ一覧「ちぇんでっくす」"><BR>
+      <INPUT type="text" name="KEY" size="17"></A><INPUT type="image" src="image/kensaku.gif" name="submit" border="0" alt="地域名を入力し検索"></TD>
+      <TD height="116" valign="top" bgcolor="#0000ff" width="249"><!-- Begin Yahoo Search Form -->
+            <FORM method="GET" action="http://search.yahoo.co.jp/bin/search"><A href="http://www.yahoo.co.jp/" target="_self"><IMG src="image/yahoo.gif" width="88" height="34" border="0" align="middle"></A><BR>
+            <INPUT size="25" name="p"><br>
+            <INPUT TYPE=submit VALUE="検索"></FORM>
+      <FONT color="#ffffff">Yahoo!! Japanで検索</FONT>
+            <!-- End Yahoo Search Form --></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</DIV>
+<P align="center"><IMG src="/scripts/count.exe?df=home.txt|dd=C|display=clock" x-sas-useimagewidth x-sas-useimageheight align="bottom"><IMG src="/scripts/count.exe?df=home.txt|dd=C" x-sas-useimagewidth x-sas-useimageheight align="bottom"> <BR>
+Time since 03/20/1998<BR>
+</P>
+</BODY>
+</HTML>
